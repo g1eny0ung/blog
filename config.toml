@@ -1,0 +1,9 @@
+baseURL = "https://g1eny0ung.github.io"
+languageCode = "zh-CN"
+title = "g1eny0ung的博客"
+theme = "dream"
+
+[params]
+  name = 'g1eny0ung'
+  avatar = "/me/yy.jpg"
+  motto = "In My Head."
