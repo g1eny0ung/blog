@@ -6,7 +6,6 @@ author: g1eny0ung
 cover: /img/Petal版本更新.jpg
 categories: ["项目"]
 tags: ["tech", "Petal"]
-draft: true
 ---
 
 ## [Petal](https://github.com/3shld/Petal)的版本更新说明，以后的更新都会在这里

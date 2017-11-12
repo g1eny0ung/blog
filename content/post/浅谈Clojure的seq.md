@@ -6,7 +6,6 @@ author: g1eny0ung
 cover: /img/浅谈Clojure的seq.jpg
 categories: ["语言", "技术"]
 tags: ["clojure", "tech"]
-draft: true
 ---
 
 > Clojure defines many algorithms in terms of sequences (seqs). A seq is a logical list, and unlike most Lisps where the list is represented by a concrete, 2-slot structure, Clojure uses the ISeq interface to allow many data structures to provide access to their elements as sequences. 

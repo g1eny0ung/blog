@@ -6,7 +6,6 @@ author: g1eny0ung
 cover: /img/Church-Encoding.jpg
 categories: ["语言", "技术"]
 tags: ["javascript", "tech"]
-draft: true
 ---
 
 下面是一些Church Encoding的js实现。
