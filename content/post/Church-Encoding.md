@@ -1,7 +1,7 @@
 ---
 title: Church Encoding
 date: 2017-06-13T11:14:03+08:00
-update: 2017-06-13T11:14:03+08:00
+lastmod: 2017-06-13T11:14:03+08:00
 author: g1eny0ung
 cover: /img/Church-Encoding.jpg
 categories: ["语言", "技术"]

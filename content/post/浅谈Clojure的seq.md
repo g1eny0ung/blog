@@ -1,7 +1,7 @@
 ---
 title: 浅谈Clojure的seq
 date: 2017-05-13T17:53:11+08:00
-update: 2017-05-13T17:53:11+08:00
+lastmod: 2017-05-13T17:53:11+08:00
 author: g1eny0ung
 cover: /img/浅谈Clojure的seq.jpg
 categories: ["语言", "技术"]

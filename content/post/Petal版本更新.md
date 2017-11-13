@@ -1,7 +1,7 @@
 ---
 title: Petal版本更新
 date: 2017-05-21T11:08:42+08:00
-update: 2017-05-21T11:08:42+08:00
+lastmod: 2017-05-21T11:08:42+08:00
 author: g1eny0ung
 cover: /img/Petal版本更新.jpg
 categories: ["项目"]
