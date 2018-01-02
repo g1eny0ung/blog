@@ -12,6 +12,8 @@ disqusShortname = "g1eny0ung"
 
 enableRobotsTXT = true
 
+hasCJKLanguage = true
+
 [params]
   author = "g1eny0ung"
   description = "g1eny0ung的生活记录～"
