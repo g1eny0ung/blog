@@ -26,4 +26,5 @@ hasCJKLanguage = true
   codepen = "g1eny0ung"
   stackoverflow = "5676489/g1eny0ung"
 
+  paginate = 4
   siteStartYear = 2016
