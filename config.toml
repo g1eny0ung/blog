@@ -28,3 +28,5 @@ hasCJKLanguage = true
 
   paginate = 4
   siteStartYear = 2016
+
+  favicon = "/favicon.ico"
