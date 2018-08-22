@@ -10,6 +10,4 @@
 
 我的一些 demo ：
 
-* [pixel-fountain](https://github.com/g1eny0ung/pixel-fountain) :arrow_right: 一个 three.js 的 demo ，地址：[https://g1eny0ung.site/pixel-fountain](https://g1eny0ung.site/pixel-fountain)，起名叫像素喷泉～
-
 * [cube-box](https://codepen.io/g1eny0ung/pen/MvOREa) :arrow_right: CSS旋转立方体
