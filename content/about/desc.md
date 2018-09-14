@@ -20,7 +20,8 @@ g1eny0ung 的:heart:播客
 也在写：
 
 - Swift
+- Rust
 
 目前在<a href="http://deepglint.com" target="_blank">格灵深瞳</a>工作
 
--- 2018 年 8 月 22 日更新
+-- 2018 年 9 月 14 日更新
