@@ -12,5 +12,4 @@
 
 我的一些 demo ：
 
-- [cube-box](https://codepen.io/g1eny0ung/pen/MvOREa) :arrow_right: CSS 旋转立方体
 - [2d-3d.play](https://github.com/g1eny0ung/2d-3d.play) :arrow_right: 2d, 3d 游乐场
