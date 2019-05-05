@@ -8,6 +8,8 @@ g1eny0ung 的:heart:博客
 
 职业是前端工程师
 
+业余时间会做开源和 Apple App (OSX & iOS)
+
 主要的技术栈是：
 
 - JavaScript
@@ -21,8 +23,8 @@ g1eny0ung 的:heart:博客
 
 - Swift
 - Rust
-- DP
+- Dart
 
 目前在<a href="http://deepglint.com" target="_blank">格灵深瞳</a>工作
 
--- 2019 年 4 月 19 日更新
+-- 2019 年 5 月 5 日更新
