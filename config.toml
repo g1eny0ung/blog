@@ -30,3 +30,5 @@ hasCJKLanguage = true
   siteStartYear = 2016
 
   favicon = "/favicon.ico"
+
+  lightMode = true
