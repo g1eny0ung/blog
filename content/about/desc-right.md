@@ -2,4 +2,4 @@
 
 You can buy me a coffee. ~
 
-<img src="/me/微信赞赏码.jpeg" alt="wechat" width="400" height="400">
+<img class="ui image" src="/me/微信赞赏码.jpeg" alt="wechat" />
