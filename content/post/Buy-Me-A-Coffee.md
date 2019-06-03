@@ -6,7 +6,6 @@ author: g1eny0ung
 cover: /img/Buy-Me-A-Coffee.jpg
 categories: ["开源"]
 tags: ["二维码", "赞赏"]
-draft: true
 ---
 
 如果你喜欢我的开源项目或者它们可以给你带来帮助，可以赏一杯咖啡 ☕ 给我。~
