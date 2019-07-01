@@ -4,7 +4,7 @@ g1eny0ung 的:heart:博客
 
 ~~一名大四学生:man:~~
 
-马上(已经)毕业于:school:大连东软信息学院
+~~马上~~(已经)毕业于:school:大连东软信息学院
 
 职业是前端工程师
 
@@ -14,17 +14,18 @@ g1eny0ung 的:heart:博客
 
 - JavaScript
 - TypeScript
-- React
+- React.js
 - Electron
 - 3D Rendering
 - Data Visualization
 
 也在写：
 
-- Swift
+- Clojure
 - Rust
 - Dart
+- Swift
 
 目前在<a href="http://deepglint.com" target="_blank">格灵深瞳</a>工作
 
--- 2019 年 5 月 25 日更新
+-- 2019 年 7 月 1 日更新

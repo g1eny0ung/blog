@@ -8,7 +8,6 @@
 - [Alfred-BaiduTranslator-workflow](https://github.com/g1eny0ung/Alfred-BaiduTranslator-workflow) :arrow_right: Alfred 插件：百度翻译
 - [github-colors-contributions](https://github.com/g1eny0ung/github-colors-contributions) :arrow_right: 改变 Github 贡献面板颜色的 Chrome 插件
 - [electron-typescript-react-boilerplate](https://github.com/g1eny0ung/electron-typescript-react-boilerplate) :arrow_right: Electron + Typescript + React 脚手架
-- [leetcode](https://github.com/g1eny0ung/leetcode) :arrow_right: Leetcode in Rust.
 - [day.dart](https://github.com/g1eny0ung/day.dart) :arrow_right: ⏰ Day.js in dart.
 
 [等等等等，在我的 GitHub 上](https://github.com/g1eny0ung)
