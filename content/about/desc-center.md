@@ -11,8 +11,3 @@
 - [day.dart](https://github.com/g1eny0ung/day.dart) :arrow_right: ⏰ Day.js in dart.
 
 [等等等等，在我的 GitHub 上](https://github.com/g1eny0ung)
-
-我的一些 demo ：
-
-- [2d-3d.play](https://github.com/g1eny0ung/2d-3d.play) :arrow_right: 2d, 3d Playground
-- [codepen](https://codepen.io/g1eny0ung/) :arrow_right: 我的 codepen
