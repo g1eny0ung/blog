@@ -12,8 +12,23 @@ tags: ['二维码', '赞赏']
 
 <!--more-->
 
+我的**微信赞赏码**：
+
 <img class="ui large image" src="/me/微信赞赏码.jpeg" alt="wechat" />
+
+我的 **PayPal**：
+
+[https://paypal.me/g1eny0ung](https://paypal.me/g1eny0ung)
+
+> 最好附加一下信息或者留言，方便我可以记录下来，十分感谢🙏。
 
 收到 👋 的所有咖啡 ☕️ 钱我都会记录 📝 在这里。
 
 最后感谢支持！🙏
+
+---
+
+## 捐赠列表（Donation List）
+
+- 2019-07-04 11:57:51 收到来自 **minah** 的 +10.00 CNY
+- 2019-07-04 12:05:04 收到来自 **假装在运动** 的 +1.01 CNY
