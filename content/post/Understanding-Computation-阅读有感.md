@@ -14,8 +14,6 @@ Understanding Computation: From Simple Machines to Impossible Programs
 
 这本书的中文书名是这个：[《计算的本质:深入剖析程序和计算机》](https://www.amazon.cn/dp/B00PG0MM3C/ref=sr_1_1?ie=UTF8&qid=1515477934&sr=8-1&keywords=%E8%AE%A1%E7%AE%97%E7%9A%84%E6%9C%AC%E8%B4%A8)
 
-大部分代码我上传到了[https://github.com/g1eny0ung/Understanding-Computation](https://github.com/g1eny0ung/Understanding-Computation)
-
 但是我觉得还是依据原书名翻译比较好，现书名有着或多或少的误导，一是前后呼应不好，**计算的本质**对不上**深入剖析程序和计算机**，说的太笼统了。
 二是最后的计算机很容易被误导，这本书总体是循序渐进地从简单语言，状态机慢慢步入到图灵机，在最后阐释了通用性，不可能问题等等。把**“机”**字去掉，
 我觉得就可以接受了。
