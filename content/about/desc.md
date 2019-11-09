@@ -1,3 +1,7 @@
+---
+title: 关于我
+---
+
 g1eny0ung 的:heart:博客
 
 记录一些:rainbow:生活上，技术上的事
@@ -27,4 +31,4 @@ g1eny0ung 的:heart:博客
 
 目前在 <a href="https://pingcap.com" target="_blank">PingCAP</a> 工作
 
--- 2019 年 8 月 28 日更新
+-- 2019 年 11 月 9 日更新

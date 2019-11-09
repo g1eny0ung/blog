@@ -1,4 +1,6 @@
-我的一些开源项目：
+---
+title: 我的一些开源项目
+---
 
 - [Petal :hibiscus:](https://github.com/ilime/Petal) :arrow_right: [豆瓣 FM](https://douban.fm/)桌面版
 - [GoalHub :golf:](https://github.com/ilime/GoalHub) :arrow_right: 设置并跟踪你的 GitHub 的年贡献 (MAC OSX)
@@ -9,4 +11,4 @@
 - [electron-typescript-react-boilerplate](https://github.com/g1eny0ung/electron-typescript-react-boilerplate) :arrow_right: Electron + Typescript + React 脚手架
 - [day.dart](https://github.com/dayjs/day.dart) :arrow_right: ⏰ Day.js in dart.
 
-[等等等等，在我的 GitHub 上](https://github.com/g1eny0ung)
+[等等等等](https://github.com/g1eny0ung)

@@ -8,7 +8,7 @@ categories: ['读书']
 tags: ['技术', '感悟', 'ruby']
 ---
 
-Understanding Computation: From Simple Machines to Impossible Programs
+Understanding Computation: From Simple Machines to Impossible Programs.
 
 <!--more-->
 
