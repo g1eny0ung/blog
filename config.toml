@@ -15,7 +15,9 @@ enableRobotsTXT = true
 hasCJKLanguage = true
 
 [params]
-  background = "/me/background.jpg"
+  # background = "black"
+  backgroundImage = "/me/background.jpg"
+  linkColor = "darkseagreen"
 
   author = "g1eny0ung"
   description = "g1eny0ung的生活记录～"
@@ -32,4 +34,5 @@ hasCJKLanguage = true
 
   favicon = "/favicon.ico"
 
-  darkMode = true 
+  darkNav = true 
+  dark404Button = true
