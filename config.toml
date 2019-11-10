@@ -17,7 +17,7 @@ hasCJKLanguage = true
 [params]
   # background = "black"
   backgroundImage = "/me/background.jpg"
-  linkColor = "darkseagreen"
+  linkColor = "seagreen"
 
   author = "g1eny0ung"
   description = "g1eny0ung的生活记录～"
@@ -34,5 +34,7 @@ hasCJKLanguage = true
 
   favicon = "/favicon.ico"
 
+  # dark mode
+  darkLinkColor = "darkseagreen"
   darkNav = true 
   dark404Button = true
