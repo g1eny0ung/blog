@@ -2,6 +2,10 @@
 title: 关于我
 ---
 
+关于我
+
+<!--more-->
+
 g1eny0ung 的:heart:博客
 
 记录一些:rainbow:生活上，技术上的事
