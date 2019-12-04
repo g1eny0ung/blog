@@ -1,5 +1,5 @@
 baseURL = "https://g1eny0ung.github.io"
-languageCode = "zh-cmn-Hans"
+languageCode = "zh-Hans"
 defaultContentLanguage = "zh"
 title = "g1eny0ung的博客"
 theme = "dream"
