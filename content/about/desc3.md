@@ -20,5 +20,4 @@ You can [buy me a coffee](/posts/buy-me-a-coffee). ~
 
 [https://paypal.me/g1eny0ung](https://paypal.me/g1eny0ung)
 
-> 最好附加一下信息或者留言，方便我可以将捐助记录📝下来，十分感谢🙏。
-> 目前的捐助会记录在这里：[Buy me a coffee](/posts/buy-me-a-coffee)
+> 最好附加一下信息或者留言，方便我可以[将捐助记录📝下来](/posts/buy-me-a-coffee)，十分感谢🙏。
