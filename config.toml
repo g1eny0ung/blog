@@ -14,6 +14,11 @@ enableRobotsTXT = true
 
 hasCJKLanguage = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   # background = "black"
   backgroundImage = "/me/background.jpg"
