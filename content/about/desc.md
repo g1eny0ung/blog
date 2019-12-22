@@ -26,14 +26,14 @@ g1eny0ung 的:heart:博客
 - TypeScript
 - React.js
 - Electron
-- Rust
-- Ocaml
 
 写着玩：
 
-- Clojure & CLJS
-- Swift
+- Java & Clojure & CLJS
+- Rust
+- OCaml & Reason
 - Dart
+- Swift
 
 目前在 [PingCAP](https://pingcap.com) 工作
 
