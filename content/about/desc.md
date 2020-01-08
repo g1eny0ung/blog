@@ -22,8 +22,7 @@ g1eny0ung 的:heart:博客
 
 主要的技术栈是：
 
-- JavaScript
-- TypeScript
+- JavaScript & TypeScript
 - React.js
 - Electron
 
@@ -32,8 +31,8 @@ g1eny0ung 的:heart:博客
 - Java & Clojure & CLJS
 - Rust
 - OCaml & Reason
-- Dart
 - Swift
+- Dart
 
 目前在 [PingCAP](https://pingcap.com) 工作
 
