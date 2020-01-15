@@ -31,8 +31,7 @@ g1eny0ung 的:heart:博客
 - Java & Clojure & CLJS
 - Rust
 - OCaml & Reason
-- Swift
-- Dart
+- Dart & Swift
 
 目前在 [PingCAP](https://pingcap.com) 工作
 
