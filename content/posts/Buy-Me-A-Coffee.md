@@ -28,7 +28,7 @@ tags: ['赞赏']
 
 ---
 
-<h3>捐赠列表（Donation List）</h3>
+### 捐赠列表（Donation List）
 
 - 微信（WeChat）
   - 2019-07-04 11:57:51 收到来自 **minah** 的 +10.00 CNY
