@@ -41,5 +41,5 @@ hasCJKLanguage = true
 
   # dark mode
   darkLinkColor = "darkseagreen"
-  darkNav = true 
+  darkNav = true
   dark404Button = true
