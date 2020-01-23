@@ -4,8 +4,12 @@ date: 2018-01-09T14:00:11+08:00
 lastmod: 2018-01-09T14:00:11+08:00
 author: g1eny0ung
 cover: /img/Understanding-Computation-阅读有感.jpg
-categories: ['读书']
-tags: ['技术', '感悟', 'ruby-lang']
+categories:
+  - 读书
+tags:
+  - 技术
+  - 感悟
+  - ruby-lang
 ---
 
 Understanding Computation: From Simple Machines to Impossible Programs.
