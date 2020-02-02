@@ -1,7 +1,7 @@
 ---
 title: 关于我
 date: 2019-11-11T01:30:25+08:00
-lastmod: 2019-11-11T01:30:25+08:00
+lastmod: 2020-02-02T17:37:24+08:00
 cover: /img/default1.jpg
 ---
 
@@ -26,14 +26,14 @@ g1eny0ung 的 ❤️ 博客
 - JavaScript & TypeScript
 - React.js
 - Electron
+- Rust
 
-写着玩：
+写着玩（写过）：
 
 - Java & Clojure & CLJS
-- Rust
 - OCaml & Reason
 - Dart & Swift
 
 目前在 [PingCAP](https://pingcap.com) 工作
 
--- 2019 年 12 月 06 日更新
+-- 2020 年 02 月 02 日更新
