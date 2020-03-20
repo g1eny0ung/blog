@@ -6,12 +6,10 @@ author: g1eny0ung
 cover: /img/Write-Before-Petal3.jpg
 categories:
   - 开源
-  - 我的软件计划
+  - 软件计划
 tags:
   - 技术
-  - 想法
   - 豆瓣FM
-  - 生活
 ---
 
 写一些我想说的和未来对 Petal3 的计划。
