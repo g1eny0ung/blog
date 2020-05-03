@@ -1,7 +1,7 @@
 baseURL = "https://g1eny0ung.github.io"
 languageCode = "zh-Hans"
 defaultContentLanguage = "zh"
-title = "g1eny0ung的博客"
+title = "g1eny0ung 的博客"
 theme = "dream"
 
 copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。'
@@ -26,7 +26,7 @@ hasCJKLanguage = true
   linkColor = "seagreen"
 
   author = "g1eny0ung"
-  description = "g1eny0ung的生活记录～"
+  description = "g1eny0ung 的生活记录～"
   avatar = "/me/yy.jpg"
   motto = "与其感慨路难行，不如马上出发。"
   
