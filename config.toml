@@ -19,6 +19,8 @@ hasCJKLanguage = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.highlight]
+    style = "dracula"
 
 [params]
   # background = "black"
