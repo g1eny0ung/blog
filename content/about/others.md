@@ -2,7 +2,6 @@
 title: 其他
 date: 2019-11-11T01:30:23+08:00
 lastmod: 2019-11-11T01:30:23+08:00
-cover: /img/default3.jpg
 ---
 
 其他

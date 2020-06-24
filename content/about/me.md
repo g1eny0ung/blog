@@ -2,7 +2,6 @@
 title: 关于我
 date: 2019-11-11T01:30:25+08:00
 lastmod: 2020-02-02T17:37:24+08:00
-cover: /img/default1.jpg
 ---
 
 关于我
