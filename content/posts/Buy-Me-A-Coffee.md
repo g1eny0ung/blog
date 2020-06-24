@@ -32,10 +32,10 @@ My **PayPal**：
 
 ### 捐赠列表（Donation List）
 
+- PayPal
+  - 2020-06-13 Thanks to **Ishibashi Takeru** for donating +500.00 JPY
 - 微信（WeChat）
   - 2019-07-04 收到来自 **minah** 的 +10.00 CNY
   - 2019-07-04 收到来自 **假装在运动** 的 +1.00 CNY
   - 2019-12-06 收到来自 **易伟** 的 +50.00 CNY
   - 2020-04-22 收到来自 **海** 的 +6.00 CNY
-- Paypal
-  - 2020-06-13 Thanks to **Ishibashi Takeru** for donating +500.00 JPY
