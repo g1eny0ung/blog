@@ -45,6 +45,9 @@ hasCJKLanguage = true
 
   favicon = "/favicon.ico"
 
+  # options
+  showSummaryCoverInPost = true
+
   # dark mode
   darkLinkColor = "darkseagreen"
   darkNav = true
