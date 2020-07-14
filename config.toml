@@ -33,6 +33,8 @@ hasCJKLanguage = true
   motto = "与其感慨路难行，不如马上出发。"
 
   rss = true
+
+  utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
   
   email = "g1enyy0ung@gmail.com"
   twitter = "g1eny0ung"
