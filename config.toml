@@ -31,6 +31,7 @@ hasCJKLanguage = true
   description = "g1eny0ung 的生活记录～"
   avatar = "/me/yy.jpg"
   motto = "与其感慨路难行，不如马上出发。"
+  categoriesLimitInHeader = 6
 
   rss = true
 
