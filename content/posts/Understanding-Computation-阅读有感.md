@@ -9,7 +9,7 @@ categories:
 tags:
   - 技术
   - 感悟
-  - ruby-lang
+  - Ruby Lang
 ---
 
 Understanding Computation: From Simple Machines to Impossible Programs.
