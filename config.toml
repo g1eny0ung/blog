@@ -32,6 +32,7 @@ hasCJKLanguage = true
   avatar = "/me/yy.jpg"
   motto = "与其感慨路难行，不如马上出发。"
   categoriesLimitInHeader = 6
+  # headerBottomText = ""
 
   rss = true
 
