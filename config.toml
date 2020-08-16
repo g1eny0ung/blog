@@ -19,8 +19,6 @@ hasCJKLanguage = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-  [markup.highlight]
-    style = "dracula"
 
 [params]
   # background = "black"
@@ -50,6 +48,12 @@ hasCJKLanguage = true
   siteStartYear = 2016
 
   favicon = "/favicon.ico"
+
+  highlightjs = true
+  # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+  highlightjsExtraLanguages = ["ocaml"]
+  highlightjsTheme = "gruvbox-light"
+  highlightjsThemeDark = "gruvbox-dark"
 
   # options
   showSummaryCoverInPost = true
