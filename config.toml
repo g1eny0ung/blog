@@ -60,6 +60,9 @@ hasCJKLanguage = true
   highlightjsTheme = "gruvbox-light"
   highlightjsThemeDark = "gruvbox-dark"
 
+  # search
+  enableSearch = true
+
   # options
   showSummaryCoverInPost = true
 
