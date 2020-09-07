@@ -26,7 +26,7 @@ hasCJKLanguage = true
       unsafe = true
 
 [params]
-  # background = "black"
+  background = "black"
   backgroundImage = "/me/background.jpg"
   linkColor = "seagreen"
 
