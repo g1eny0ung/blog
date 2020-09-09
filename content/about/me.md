@@ -26,9 +26,9 @@ g1eny0ung 的 ❤️ 博客
 写着玩（写过）：
 
 - Java & Clojure & CLJS
-- OCaml & Reason
+- OCaml & Reason & ReScript
 - Dart & Swift
 
 目前在 [PingCAP](https://pingcap.com) 工作
 
--- 2020 年 02 月 02 日更新
+-- 2020 年 09 月 09 日更新
