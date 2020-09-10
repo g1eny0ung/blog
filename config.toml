@@ -40,6 +40,10 @@ hasCJKLanguage = true
   rss = true
 
   utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
+
+  # valine = true
+  # LEANCLOUD_APP_ID = ""
+  # LEANCLOUD_APP_KEY = ""
   
   email = "g1enyy0ung@gmail.com"
   twitter = "g1eny0ung"
