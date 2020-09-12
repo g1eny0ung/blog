@@ -49,6 +49,7 @@ hasCJKLanguage = true
   twitter = "g1eny0ung"
   facebook = "g1eny0ung"
   instagram = "g1eny0ung"
+  # mastodon = ""
   linkedin = "g1eny0ung"
   github = "g1eny0ung"
   stackoverflow = "5676489/g1eny0ung"
@@ -69,6 +70,7 @@ hasCJKLanguage = true
 
   # options
   showSummaryCoverInPost = true
+  # hasTwitterEmbed = true
 
   # dark mode
   darkLinkColor = "darkseagreen"
