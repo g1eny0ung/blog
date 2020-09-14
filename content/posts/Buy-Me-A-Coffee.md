@@ -21,6 +21,10 @@ My **PayPal**：
 
 [https://paypal.me/g1eny0ung](https://paypal.me/g1eny0ung)
 
+**Patreon**:
+
+<a href="https://www.patreon.com/bePatron?u=42327574" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
 我的**微信赞赏码**：
 
 <img class="ui large image" src="/me/微信赞赏码.jpeg" alt="wechat" />
