@@ -4,6 +4,8 @@ date: 2019-12-21T22:00:53+08:00
 lastmod: 2019-12-21T22:00:53+08:00
 author: g1eny0ung
 cover: /img/Write-Before-Petal3.jpg
+images:
+  - /img/Write-Before-Petal3.jpg
 categories:
   - 开源
   - 软件计划

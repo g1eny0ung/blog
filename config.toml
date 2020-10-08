@@ -30,6 +30,8 @@ hasCJKLanguage = true
   backgroundImage = "/me/background.jpg"
   linkColor = "seagreen"
 
+  images = ["me/background.jpg"] 
+
   author = "g1eny0ung"
   description = "g1eny0ung 的生活记录～"
   avatar = "/me/yy.jpg"

@@ -4,6 +4,8 @@ date: 2019-06-03T14:21:26+08:00
 lastmod: 2019-06-03T14:21:26+08:00
 author: g1eny0ung
 cover: /img/Buy-Me-A-Coffee.jpg
+images:
+  - /img/Buy-Me-A-Coffee.jpg
 categories:
   - 开源
 tags:
