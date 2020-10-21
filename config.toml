@@ -35,6 +35,7 @@ hasCJKLanguage = true
   author = "g1eny0ung"
   description = "g1eny0ung 的生活记录～"
   avatar = "/me/yy.jpg"
+  headerTitle = "g1eny0ung 的博客"
   motto = "与其感慨路难行，不如马上出发。"
   categoriesLimitInHeader = 6
   # headerBottomText = ""
