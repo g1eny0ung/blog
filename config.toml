@@ -26,11 +26,18 @@ hasCJKLanguage = true
       unsafe = true
 
 [params]
-  background = "black"
+  background = "#ccc"
   backgroundImage = "/me/background.jpg"
   linkColor = "seagreen"
 
-  images = ["me/background.jpg"] 
+  # dark mode
+  backgroundDark = "black"
+  backgroundImageDark = "/me/background-dark.jpg"
+  darkLinkColor = "darkseagreen"
+  darkNav = true
+  dark404 = true
+
+  images = ["me/background.jpg"]
 
   author = "g1eny0ung"
   description = "g1eny0ung 的生活记录～"
@@ -74,8 +81,3 @@ hasCJKLanguage = true
   # options
   showSummaryCoverInPost = true
   # hasTwitterEmbed = true
-
-  # dark mode
-  darkLinkColor = "darkseagreen"
-  darkNav = true
-  dark404 = true
