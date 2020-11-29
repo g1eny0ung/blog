@@ -19,15 +19,17 @@ If you like my open source projects or they can help you. You can buy me a coffe
 
 <!--more-->
 
-My **PayPal**：
+---
+
+**PayPal:**
 
 [https://paypal.me/g1eny0ung](https://paypal.me/g1eny0ung)
 
-**Patreon**:
+**Patreon:**
 
 <a href="https://www.patreon.com/bePatron?u=42327574" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-我的**微信赞赏码**：
+**微信赞赏码:**
 
 <img class="ui large image" src="/me/微信赞赏码.jpeg" alt="wechat" />
 
@@ -35,9 +37,7 @@ My **PayPal**：
 >
 > It is better to attach some information or leave a message so that I can record the donation 📝, thank you very much 🙏.
 
----
-
-### 捐赠列表（Donation List）
+## 捐赠列表（Donation List）
 
 - PayPal
   - 2020-06-13 Thanks to **Ishibashi Takeru** for donating +500.00 JPY
