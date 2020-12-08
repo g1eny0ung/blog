@@ -3,6 +3,7 @@ title: 写在 Petal3 之前
 date: 2019-12-21T22:00:53+08:00
 lastmod: 2019-12-21T22:00:53+08:00
 author: g1eny0ung
+avatar: /me/yy.jpg
 cover: /img/Write-Before-Petal3.jpg
 images:
   - /img/Write-Before-Petal3.jpg
