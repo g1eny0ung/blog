@@ -48,3 +48,4 @@ If you like my open source projects or they can help you. You can buy me a coffe
   - 2019-12-06 收到来自 **易伟** 的 +50.00 CNY
   - 2020-04-22 收到来自 **海** 的 +6.00 CNY
   - 2020-07-10 收到来自 **孤独的笨蛋@** 的 +6.66 CNY
+  - 2020-12-16 收到来自 **玲儿响叮当:wind_chime:** 的 +2.33 CNY
