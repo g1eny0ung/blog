@@ -31,6 +31,7 @@ hasCJKLanguage = true
   linkColor = "seagreen"
 
   # dark mode
+  defaultDark = true
   backgroundDark = "black"
   backgroundImageDark = "/me/background-dark.jpg"
   darkLinkColor = "darkseagreen"
