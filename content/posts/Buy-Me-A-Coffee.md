@@ -20,17 +20,17 @@ If you like my open source projects or they can help you. You can buy me a coffe
 
 <!--more-->
 
----
+## 捐赠方式（Ways to Give）
 
-**PayPal:**
+### PayPal
 
 [https://paypal.me/g1eny0ung](https://paypal.me/g1eny0ung)
 
-**Patreon:**
+### Patreon
 
 <a href="https://www.patreon.com/bePatron?u=42327574" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-**微信赞赏码:**
+### 微信赞赏码
 
 <img class="ui large image" src="/me/微信赞赏码.jpeg" alt="wechat" />
 
