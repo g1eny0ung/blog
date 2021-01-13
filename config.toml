@@ -14,7 +14,7 @@ enableRobotsTXT = true
 
 hasCJKLanguage = true
 
-# Paginate = 4
+# Paginate = 6
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -55,7 +55,7 @@ hasCJKLanguage = true
   # valine = true
   # LEANCLOUD_APP_ID = ""
   # LEANCLOUD_APP_KEY = ""
-  
+
   email = "g1enyy0ung@gmail.com"
   twitter = "g1eny0ung"
   facebook = "g1eny0ung"
@@ -82,3 +82,7 @@ hasCJKLanguage = true
   # options
   showSummaryCoverInPost = true
   # hasTwitterEmbed = true
+
+  [params.advanced]
+    customCSS = ["css/custom.css"]
+    customJS = []
