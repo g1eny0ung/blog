@@ -10,7 +10,7 @@ g1eny0ung 的 ❤️ 博客
 
 ~~一名大四学生~~
 
-~~马上~~（已经）毕业于 🏫 大连东软信息学院
+~~马上~~毕业于 🏫 大连东软信息学院
 
 职业是前端工程师
 
@@ -23,7 +23,7 @@ g1eny0ung 的 ❤️ 博客
 - Electron
 - Rust
 
-写着玩（写过）：
+写着玩：
 
 - Java & Clojure & CLJS
 - OCaml & Reason & ReScript
@@ -31,4 +31,4 @@ g1eny0ung 的 ❤️ 博客
 
 目前在 [PingCAP](https://pingcap.com) 工作
 
--- 2020 年 09 月 09 日更新
+-- 2021 年 01 月 30 日更新
