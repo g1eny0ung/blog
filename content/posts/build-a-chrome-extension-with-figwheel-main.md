@@ -1,5 +1,5 @@
 ---
-title: Build a Chrome extension with Figwheel Main
+title: Build a Chrome Extension with Figwheel Main
 date: 2021-01-12T23:54:31+08:00
 lastmod: 2021-01-12T23:54:31+08:00
 author: g1eny0ung
