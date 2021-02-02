@@ -97,7 +97,7 @@ Everything looks normal, but when you click the extension icon in the extensions
 
 ![Errors](/img/build-a-chrome-extension-with-figwheel-main/errors.png)
 
-This is the first point we need to pay attention to: [Chrome Apps Content Security Policy](https://developer.chrome.com/docs/apps/contentSecurityPolicy/)
+This is the first point we need to pay attention to: [Chrome Apps Content Security Policy](https://developer.chrome.com/docs/apps/contentSecurityPolicy/).
 
 Since we are in a development environment, Figwheel Main will insert some inline scripts (relate to its own functionality) into the document. You can view the `dev-main.js`:
 
@@ -168,6 +168,7 @@ Thanks for reading. Happy coding with Figwheel Main!
 
 Ref links:
 
+- [ClojureScript](https://clojurescript.org/)
 - [Figwheel Main](https://figwheel.org/)
 - [figwheel.main template](https://rigsomelight.com/figwheel-main-template/)
-- [Content Security Policy](https://developer.chrome.com/docs/apps/contentSecurityPolicy/)
+- [Chrome Apps Content Security Policy](https://developer.chrome.com/docs/apps/contentSecurityPolicy/)
