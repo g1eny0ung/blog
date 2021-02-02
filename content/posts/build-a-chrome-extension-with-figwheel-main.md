@@ -158,7 +158,7 @@ lein fig:min
 
 to build the production code.
 
-## At last
+## Conclusion
 
 These are all steps to build a chrome extension with Figwheel Main.
 
@@ -166,7 +166,7 @@ If you are looking for a real-world example as a reference, the [GitHub Colorful
 
 Thanks for reading. Happy coding with Figwheel Main!
 
-Ref links:
+References:
 
 - [ClojureScript](https://clojurescript.org/)
 - [Figwheel Main](https://figwheel.org/)
