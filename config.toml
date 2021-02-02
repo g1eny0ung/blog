@@ -74,9 +74,9 @@ hasCJKLanguage = true
 
   highlightjs = true
   # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
-  highlightjsExtraLanguages = ["ocaml"]
-  highlightjsTheme = "gruvbox-light"
-  highlightjsThemeDark = "gruvbox-dark"
+  highlightjsExtraLanguages = ["clojure", "ocaml"]
+  highlightjsTheme = "tomorrow"
+  highlightjsThemeDark = "tomorrow-night"
 
   # search
   enableSearch = true
