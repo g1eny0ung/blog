@@ -84,6 +84,7 @@ hasCJKLanguage = true
   # options
   showSummaryCoverInPost = true
   # hasTwitterEmbed = true
+  # reversePostAndAside = true
 
   [params.advanced]
     customCSS = ["css/custom.css"]
