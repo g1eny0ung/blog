@@ -8,15 +8,15 @@ lastmod: 2019-11-11T01:30:23+08:00
 
 If you like my open source projects or they can help you. You can [buy me a coffee ☕](/posts/buy-me-a-coffee).~
 
-#### PayPal
+> PayPal
 
 [https://paypal.me/g1eny0ung](https://paypal.me/g1eny0ung)
 
-#### Patreon
+> Patreon
 
 <a href="https://www.patreon.com/bePatron?u=42327574" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-#### 微信赞赏码
+> 微信赞赏码
 
 <img class="ui image" src="/me/微信赞赏码.jpeg" alt="wechat" />
 
