@@ -23,6 +23,7 @@ body.dark .os-viewport {
 .ui.segment.dream-posts-section,
 .ui.segment.dream-categories-section,
 .ui.segment.dream-tags-section,
+/* .dream-single-aside .ui.segment, */
 .ui.segment.post-disqus-area,
 .ui.segment.utterances-comments {
   border-radius: 1.5em;
