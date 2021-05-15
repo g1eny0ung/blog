@@ -8,27 +8,28 @@ body.dark .os-viewport {
   }
 }
 
-.ui.inverted.segment {
+.ui.inverted.segment,
+#dream-search.inverted .results {
   background-color: #333;
 }
 
 .ui.attached.segment.dream-card {
   border: none;
   border-radius: 1.5em;
-  box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14),
-    0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%),
+    0 0 0 1px rgb(10 10 10 / 2%); /* Bulma Box */
 }
 
 .dream-back .ui.segment,
 .ui.segment.dream-posts-section,
 .ui.segment.dream-categories-section,
 .ui.segment.dream-tags-section,
-/* .dream-single-aside .ui.segment, */
+.dream-single-aside .ui.segment,
 .ui.segment.post-disqus-area,
 .ui.segment.utterances-comments {
   border-radius: 1.5em;
-  box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14),
-    0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%),
+    0 0 0 1px rgb(10 10 10 / 2%);
 }
 
 .ui.segment.toc {
@@ -46,8 +47,8 @@ body.dark .os-viewport {
 .dream-single .ui.attached.segment:not(.cover) {
   border-bottom-left-radius: 1.5em;
   border-bottom-right-radius: 1.5em;
-  box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14),
-    0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%),
+    0 0 0 1px rgb(10 10 10 / 2%);
 }
 
 body.dark .markdown-body .highlight pre {
