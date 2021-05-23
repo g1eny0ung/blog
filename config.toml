@@ -32,7 +32,7 @@ hasCJKLanguage = true
 
   # dark mode
   # defaultDark = true
-  # backgroundDark = "#222"
+  backgroundDark = "#333"
   backgroundImageDark = "/me/background.jpg"
   darkLinkColor = "darkseagreen"
   # darkNav = true
@@ -87,6 +87,7 @@ hasCJKLanguage = true
   # hasTwitterEmbed = true
   # reversePostAndAside = true
   # shareInAside = true
+  fixedNav = true
 
   [params.advanced]
     customCSS = ["css/custom.css"]
