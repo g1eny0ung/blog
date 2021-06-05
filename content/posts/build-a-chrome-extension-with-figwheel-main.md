@@ -40,7 +40,7 @@ Let's start.
 
 Assuming you have [lein](https://leiningen.org/) installed, then open <https://rigsomelight.com/figwheel-main-template/> and copy the `new` command to your shell:
 
-```sh
+```bash
 lein new figwheel-main hello-world.core -- --reagent
 ```
 
@@ -50,7 +50,7 @@ This command will create a dir named `hello-world.core` and add a minimal [Reage
 
 Then we can run:
 
-```sh
+```bash
 lein fig:build
 ```
 
@@ -68,7 +68,7 @@ If you see an alert opened, then our preparations are complete.
 
 To develop a chrome extension, we need to create a `manifest.json` in the `resources/public` dir:
 
-```sh
+```bash
 touch resources/public/manifest.json
 ```
 
@@ -152,7 +152,7 @@ Put them into `externs` folder and edit `dev.cljs.edn` like below content:
 
 Then run:
 
-```sh
+```bash
 lein fig:min
 ```
 
