@@ -5,6 +5,8 @@ lastmod: 2021-01-12T23:54:31+08:00
 author: g1eny0ung
 avatar: /me/yy.jpg
 cover: /img/build-a-chrome-extension-with-figwheel-main.png
+images:
+  - /img/build-a-chrome-extension-with-figwheel-main.png
 categories:
   - ENG
 tags:
