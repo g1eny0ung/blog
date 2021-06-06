@@ -91,7 +91,8 @@ hasCJKLanguage = true
 
   [params.advanced]
     customCSS = ["css/custom.css"]
-    customJS = []
+    # customJSBefore = []
+    # customJS = []
 
   [params.experimental]
     jsDate = true
