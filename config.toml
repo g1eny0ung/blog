@@ -88,6 +88,8 @@ hasCJKLanguage = true
   # reversePostAndAside = true
   # shareInAside = true
   fixedNav = true
+  # collapsibleTags = true
+  # collapseBySummary = true
 
   [params.advanced]
     customCSS = ["css/custom.css"]
