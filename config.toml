@@ -20,10 +20,8 @@ hasCJKLanguage = true
   home = ["HTML", "RSS", "JSON"]
 
 # https://gohugo.io/news/0.60.0-relnotes/
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[markup.goldmark.renderer]
+  unsafe = true
 
 [params]
   background = "#fff"
@@ -60,13 +58,13 @@ hasCJKLanguage = true
   # LEANCLOUD_APP_KEY = ""
 
   email = "g1enyy0ung@gmail.com"
-  twitter = "g1eny0ung"
-  facebook = "g1eny0ung"
-  instagram = "g1eny0ung"
+  # twitter = "g1eny0ung"
+  # facebook = "g1eny0ung"
+  # instagram = "g1eny0ung"
   # mastodon = ""
-  linkedin = "g1eny0ung"
-  github = "g1eny0ung"
-  stackoverflow = "5676489/g1eny0ung"
+  # linkedin = "g1eny0ung"
+  # github = "g1eny0ung"
+  # stackoverflow = "5676489/g1eny0ung"
   # codepen = "g1eny0ung"
 
   siteStartYear = 2016
@@ -91,12 +89,12 @@ hasCJKLanguage = true
   # collapsibleTags = true
   # collapseBySummary = true
 
-  [params.advanced]
-    customCSS = ["css/custom.css"]
-    # customJSBefore = []
-    # customJS = []
+[params.advanced]
+  customCSS = ["css/custom.css"]
+  # customJSBefore = []
+  # customJS = []
 
-  [params.experimental]
-    jsDate = true
-    jsDateFormat = "yyyy年MM月dd日"
-    # jsDateFormat = "yyyy年MM月dd日，cccc"
+[params.experimental]
+  jsDate = true
+  jsDateFormat = "yyyy年MM月dd日"
+  # jsDateFormat = "yyyy年MM月dd日，cccc"
