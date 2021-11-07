@@ -3,3 +3,5 @@
 public
 themes/*
 !themes/.gitkeep
+
+.hugo_build.lock
