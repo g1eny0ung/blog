@@ -45,14 +45,8 @@ body.dark .os-viewport {
   float: right;
 }
 
-.dream-single .ui.top.attached.segment {
-  border-top-left-radius: 1.5em;
-  border-top-right-radius: 1.5em;
-}
-
-.dream-single .ui.attached.segment:not(.cover) {
-  border-bottom-left-radius: 1.5em;
-  border-bottom-right-radius: 1.5em;
+.dream-single .ui.segment {
+  border-radius: 1.5em;
   box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%),
     0 0 0 1px rgb(10 10 10 / 2%);
 }
