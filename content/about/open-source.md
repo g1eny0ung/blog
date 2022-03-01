@@ -1,7 +1,6 @@
 ---
 title: 我的一些开源项目
 date: 2019-11-11T01:30:24+08:00
-lastmod: 2019-11-11T01:30:24+08:00
 ---
 
 - [Petal :hibiscus:](https://github.com/ilime/Petal) :arrow_right: [豆瓣 FM](https://douban.fm/) 桌面版
