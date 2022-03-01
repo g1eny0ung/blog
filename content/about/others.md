@@ -18,7 +18,7 @@ If you like my open source projects or they can help you. You can [buy me a coff
 
 > 微信赞赏码
 
-<img class="ui image" src="/me/微信赞赏码.jpeg" alt="wechat" />
+<p><img class="ui large image" src="/me/微信赞赏码.jpeg" alt="wechat" /></p>
 
 > 最好附加一下信息或者留言，方便我可以[将捐助记录 📝 下来](/posts/buy-me-a-coffee)，十分感谢 🙏。
 >

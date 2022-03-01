@@ -1,7 +1,6 @@
 ---
 title: Buy Me A Coffee
 date: 2019-06-03T14:21:26+08:00
-lastmod: 2019-06-03T14:21:26+08:00
 author: g1eny0ung
 avatar: /me/yy.jpg
 cover: /img/Buy-Me-A-Coffee.jpg
@@ -32,7 +31,7 @@ If you like my open source projects or they can help you. You can buy me a coffe
 
 ### 微信赞赏码
 
-<img class="ui large image" src="/me/微信赞赏码.jpeg" alt="wechat" />
+<p><img class="ui large image" src="/me/微信赞赏码.jpeg" alt="wechat" /></p>
 
 > 最好附加一下信息或者留言，方便我可以将捐助记录 📝 下来，十分感谢 🙏。
 >

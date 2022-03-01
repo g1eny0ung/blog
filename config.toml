@@ -16,6 +16,8 @@ hasCJKLanguage = true
 
 # Paginate = 6
 
+enableGitInfo = true
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
