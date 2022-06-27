@@ -4,4 +4,4 @@
 
 <https://g1en.site>
 
-Personal blog.
+My personal blog.
