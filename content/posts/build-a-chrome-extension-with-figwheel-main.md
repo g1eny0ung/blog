@@ -59,7 +59,7 @@ to bootstrap the dev environment. After build, a new tab will be opened automati
 
 We can test it by run below in repl:
 
-```clojure
+```clj
 (js/alert "Am I connected?")
 ```
 
@@ -146,7 +146,7 @@ There are two files we need to download: <https://github.com/google/closure-comp
 
 Put them into `externs` folder and edit `dev.cljs.edn` like below content:
 
-```
+```clj
 {:main hello-world.core
  :externs ["externs/chrome.js" "externs/chrome_extensions.js"]}
 ```
