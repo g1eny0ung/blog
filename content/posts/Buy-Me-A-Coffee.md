@@ -13,25 +13,21 @@ tags:
 weight: 1
 ---
 
-如果你喜欢我的开源项目或者它们可以给你带来帮助，可以赏一杯咖啡 ☕ 给我。~
+如果你喜欢我的工作或者它们可以给你带来帮助，可以考虑买一杯咖啡 ☕ 给我。这将激励我继续创作和维护更多的项目。🦾
 
-If you like my open source projects or they can help you. You can buy me a coffee ☕.~
+> If you like my work or find it helpful, please consider buying me a cup of coffee ☕️. It inspires me to create and maintain more projects in the future. 🦾
 
 <!--more-->
 
 ## 捐赠方式（Ways to Give）
 
-### PayPal
-
-[https://paypal.me/g1eny0ung](https://paypal.me/g1eny0ung)
-
 ### Patreon
 
-<a href="https://www.patreon.com/bePatron?u=42327574" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+[![Patreon](https://img.shields.io/badge/-Become%20a%20Patron!-F1465A?style=for-the-badge&logo=patreon&logoColor=black)](https://www.patreon.com/g1eny0ung)
 
-### 微信赞赏码
+### WeChat
 
-<p><img class="ui large image" src="/me/微信赞赏码.jpeg" alt="wechat" /></p>
+<p><img class="ui large image" src="/me/微信赞赏码.jpeg" alt="WeChat" /></p>
 
 > 最好附加一下信息或者留言，方便我可以将捐助记录 📝 下来，十分感谢 🙏。
 >
@@ -41,7 +37,7 @@ If you like my open source projects or they can help you. You can buy me a coffe
 
 - PayPal
   - 2020-06-13 Thanks to **Ishibashi Takeru** for donating +500.00 JPY
-- 微信（WeChat）
+- WeChat
   - 2019-07-04 收到来自 **minah** 的 +10.00 CNY
   - 2019-07-04 收到来自 **假装在运动** 的 +1.00 CNY
   - 2019-12-06 收到来自 **易伟** 的 +50.00 CNY
