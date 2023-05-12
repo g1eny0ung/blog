@@ -1,5 +1,11 @@
-body.dark .os-viewport {
-  background-color: rgba(0, 0, 0, 0.6);
+/* :root {
+  --card-border-radius: 1rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  body .os-viewport {
+    background-color: rgba(0, 0, 0, 0.6);
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -8,49 +14,12 @@ body.dark .os-viewport {
   }
 }
 
-.ui.inverted.segment,
-#dream-search.inverted .results {
-  background-color: #333;
+.box,
+.card {
+  border-radius: var(--card-border-radius);
 }
 
-.dream-nav.fixed {
-  box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%),
-    0 0 0 1px rgb(10 10 10 / 2%) !important;
-}
-
-.ui.attached.segment.dream-card {
-  border: none;
-  border-radius: 1.5em;
-  box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%),
-    0 0 0 1px rgb(10 10 10 / 2%); /* Bulma Box */
-}
-
-.dream-back .ui.segment,
-.ui.segment.dream-posts-section,
-.ui.segment.dream-categories-section,
-.ui.segment.dream-tags-section,
-.dream-single-aside .ui.segment,
-.ui.segment.post-disqus-area,
-.ui.segment.utterances-comments {
-  border-radius: 1.5em;
-  box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%),
-    0 0 0 1px rgb(10 10 10 / 2%);
-}
-
-.ui.segment.toc {
-  padding: 0;
-  background: none;
-  border: none;
-  box-shadow: none;
-  float: right;
-}
-
-.dream-single .ui.segment {
-  border-radius: 1.5em;
-  box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%),
-    0 0 0 1px rgb(10 10 10 / 2%);
-}
-
-body.dark .markdown-body .highlight pre {
-  background: #222 !important;
-}
+.card .card-image:first-child img {
+  border-top-left-radius: var(--card-border-radius);
+  border-top-right-radius: var(--card-border-radius);
+} */

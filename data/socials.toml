@@ -1,12 +1,10 @@
-# Each item will be rendered as <a href="{href}" target="{target}" class="{icon} icon" title="{title}">{title}</a>.
-#
-# Refer to https://semantic-ui.com/elements/icon.html to find available icons.
+# Go to https://ionic.io/ionicons to find available icons.
 socials = [
-  { href = "https://github.com/g1eny0ung", target="_blank", icon = "github", title = "GitHub" },
-  { href = "https://twitter.com/g1eny0ung", target="_blank", icon = "twitter", title = "Twitter" },
-  # { href = "https://facebook.com/g1eny0ung", target="_blank", icon = "facebook", title = "Facebook" },
-  # { href = "https://instagram.com/g1eny0ung", target="_blank", icon = "instagram", title = "Instagram" },
-  { href = "https://www.linkedin.com/in/g1eny0ung", icon = "linkedin", title = "Linkedin" },
-  { href = "https://stackoverflow.com/users/5676489/g1eny0ung", target="_blank", icon = "stack overflow", title = "stack overflow" },
-  # { href = "https://codepen.io/g1eny0ung", target="_blank", icon = "codepen", title = "Codepen" },
+  { href = "https://github.com/g1eny0ung", target="_blank", icon = "logo-github", title = "GitHub" },
+  { href = "https://twitter.com/g1eny0ung", target="_blank", icon = "logo-twitter", title = "Twitter" },
+  # { href = "https://facebook.com/g1eny0ung", target="_blank", icon = "logo-facebook", title = "Facebook" },
+  # { href = "https://instagram.com/g1eny0ung", target="_blank", icon = "logo-instagram", title = "Instagram" },
+  { href = "https://www.linkedin.com/in/g1eny0ung", target="_blank", icon = "logo-linkedin", title = "Linkedin" },
+  { href = "https://stackoverflow.com/users/5676489/g1eny0ung", target="_blank", icon = "logo-stackoverflow", title = "stack overflow" },
+  # { href = "https://codepen.io/g1eny0ung", target="_blank", icon = "logo-codepen", title = "Codepen" },
 ]
