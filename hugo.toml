@@ -30,13 +30,11 @@ ID = 'G-K6V0YY3HWS'
   lightTheme = "emerald"
   darkTheme = "forest"
 
-  backgroundImage = "/me/background.jpg"
+  # backgroundImage = "/me/background.jpg"
 
   # dark mode
   # defaultDark = true
   # backgroundImageDark = "/me/background.jpg"
-  # darkNav = true
-  # dark404 = true
 
   images = ["me/background.jpg"]
 
