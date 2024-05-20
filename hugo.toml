@@ -13,7 +13,9 @@ enableRobotsTXT = true
 
 hasCJKLanguage = true
 
-googleAnalytics = "UA-98295641-1"
+[services]
+[services.googleAnalytics]
+ID = 'G-K6V0YY3HWS'
 
 # Paginate = 6
 
