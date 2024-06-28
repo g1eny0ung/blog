@@ -20,73 +20,73 @@ ID = 'G-K6V0YY3HWS'
 # Paginate = 6
 
 # https://gohugo.io/news/0.60.0-relnotes/
+[markup]
 [markup.goldmark.renderer]
-  unsafe = true
+unsafe = true
+[markup.highlight]
+noClasses = false
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON"]
 
 [params]
-  lightTheme = "emerald"
-  darkTheme = "forest"
+lightTheme = "emerald"
+darkTheme = "forest"
 
-  # backgroundImage = "/me/background.jpg"
+# backgroundImage = "/me/background.jpg"
 
-  # dark mode
-  # defaultDark = true
-  # backgroundImageDark = "/me/background.jpg"
+# dark mode
+# defaultDark = true
+# backgroundImageDark = "/me/background.jpg"
 
-  images = ["me/background.jpg"]
+images = ["me/background.jpg"]
 
-  author = "g1eny0ung"
-  description = "The life record of g1eny0ung is presented here."
-  avatar = "/me/yy.jpg"
-  headerTitle = "g1eny0ung 的博客"
-  motto = "与其感慨路难行，不如马上出发。"
-  # maxTags = 5
-  # categoriesLimitInHeader = 6 # deprecated
-  # headerBottomText = "" # deprecated
+author = "g1eny0ung"
+description = "The life record of g1eny0ung is presented here."
+avatar = "/me/yy.jpg"
+headerTitle = "g1eny0ung 的博客"
+motto = "与其感慨路难行，不如马上出发。"
+# maxTags = 5
+# categoriesLimitInHeader = 6 # deprecated
+# headerBottomText = "" # deprecated
 
-  # footerBottomText = ""
+# footerBottomText = ""
 
-  rss = true
+rss = true
 
-  utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
+utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
 
-  # valine = true
-  # LEANCLOUD_APP_ID = ""
-  # LEANCLOUD_APP_KEY = ""
+# valine = true
+# LEANCLOUD_APP_ID = ""
+# LEANCLOUD_APP_KEY = ""
 
-  email = "g1enyy0ung@gmail.com"
+email = "g1enyy0ung@gmail.com"
 
-  siteStartYear = 2016
+siteStartYear = 2016
 
-  favicon = "/favicon.ico"
+favicon = "/favicon.ico"
 
-  highlightjs = true
-  # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
-  highlightjsExtraLanguages = ["clojure", "ocaml"]
-  highlightjsTheme = "tomorrow"
-  highlightjsThemeDark = "tomorrow-night"
+# Syntax highlighting
+customSyntaxHighlighting = true
 
-  # search
-  enableSearch = true
+# search
+enableSearch = true
 
-  # options
-  showSummaryCoverInPost = true
-  # hasTwitterEmbed = true
-  # shareInAside = true
-  fixedNav = true
-  transparentNav = true
-  # collapsibleTags = true
-  # collapseBySummary = true
+# options
+showSummaryCoverInPost = true
+# hasTwitterEmbed = true
+# shareInAside = true
+fixedNav = true
+transparentNav = true
+# collapsibleTags = true
+# collapseBySummary = true
 
 [params.advanced]
-  customCSS = ["css/custom.css"]
-  # customJSBefore = []
-  # customJS = []
+customCSS = ["css/custom.css"]
+# customJSBefore = []
+# customJS = []
 
 [params.experimental]
-  jsDate = true
-  jsDateFormat = "yyyy年MM月dd日"
-  # jsDateFormat = "yyyy年MM月dd日，cccc"
+jsDate = true
+jsDateFormat = "yyyy年MM月dd日"
+# jsDateFormat = "yyyy年MM月dd日，cccc"
