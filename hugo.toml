@@ -43,7 +43,6 @@ description = "The life record of g1eny0ung is presented here."
 avatar = "/me/yy.jpg"
 headerTitle = "g1eny0ung 的博客"
 motto = "与其感慨路难行，不如马上出发。"
-# maxTags = 5
 # categoriesLimitInHeader = 6 # deprecated
 # headerBottomText = "" # deprecated
 
@@ -72,15 +71,12 @@ enableSearch = true
 # options
 showSummaryCoverInPost = true
 # hasTwitterEmbed = true
-# shareInAside = true
-fixedNav = true
-transparentNav = true
+stickyNav = true
 # collapsibleTags = true
 # collapseBySummary = true
 
 [params.advanced]
 customCSS = ["css/custom.css"]
-# customJSBefore = []
 # customJS = []
 
 [params.experimental]
