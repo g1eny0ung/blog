@@ -15,15 +15,11 @@ shortname = "g1eny0ung"
 [services.googleAnalytics]
 ID = 'G-K6V0YY3HWS'
 
-# Paginate = 6
-
-# https://gohugo.io/news/0.60.0-relnotes/
 [markup]
 [markup.goldmark.renderer]
 unsafe = true
 [markup.highlight]
 noClasses = false
-
 
 [params]
 lightTheme = "emerald"
@@ -39,7 +35,6 @@ description = "The life record of g1eny0ung is presented here."
 avatar = "/me/yy.jpg"
 headerTitle = "g1eny0ung 的博客"
 motto = "与其感慨路难行，不如马上出发。"
-# headerBottomText = "" # deprecated
 
 # footerBottomText = ""
 
@@ -50,6 +45,7 @@ utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
 # valine = true
 # LEANCLOUD_APP_ID = ""
 # LEANCLOUD_APP_KEY = ""
+# VALINE_LANGUAGE = ""
 
 email = "g1enyy0ung@gmail.com"
 
@@ -61,9 +57,9 @@ favicon = "/favicon.ico"
 customSyntaxHighlighting = true
 
 # options
+stickyNav = true
 showSummaryCoverInPost = true
 # hasTwitterEmbed = true
-stickyNav = true
 
 [params.advanced]
 # customCSS = []
