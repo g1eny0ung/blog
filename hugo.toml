@@ -26,7 +26,7 @@ lightTheme = "emerald"
 darkTheme = "forest"
 
 # backgroundImage = "/me/background.jpg"
-# backgroundImageDark = "/me/background.jpg"
+# backgroundImageDark = ""
 
 images = ["me/background.jpg"]
 
@@ -62,7 +62,7 @@ showSummaryCoverInPost = true
 # hasTwitterEmbed = true
 
 [params.advanced]
-# customCSS = []
+# customCSS = ["css/custom.css"]
 # customJS = []
 
 [params.experimental]
