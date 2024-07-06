@@ -21,9 +21,9 @@ If you like my works or find them helpful, please consider buying me a cup of co
 
 ## 捐赠方式（Ways to Give）
 
-> 请附加一下信息或者留言，方便我可以[将捐助记录 📝 下来](/posts/buy-me-a-coffee)，十分感谢。
+> 请附加一下信息或者留言，方便我可以[将捐助记录 📝 下来](#捐赠列表donation-list)，十分感谢。
 >
-> Please attach some information or leave a message so that I can [record the donation 📝](/posts/buy-me-a-coffee), thank you very much.
+> Please attach some information or leave a message so that I can [record the donation 📝](#捐赠列表donation-list), thank you very much.
 
 ### GitHub Sponsors
 
@@ -35,7 +35,7 @@ If you like my works or find them helpful, please consider buying me a cup of co
 
 ### WeChat
 
-![WeChat](/me/微信赞赏码.jpeg)
+<img src="/me/sponsor-me.png" alt="微信赞赏码" width="50%" />
 
 ## 捐赠列表（Donation List）
 
