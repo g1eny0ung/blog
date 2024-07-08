@@ -1,0 +1,11 @@
+[data-theme="emerald"] #disqus_thread {
+  color-scheme: none;
+  background-color: #fff;
+  color: #333c4d;
+}
+
+[data-theme="forest"] #disqus_thread {
+  color-scheme: none;
+  background-color: #171213;
+  color: #cbc9ca;
+}
