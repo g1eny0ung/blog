@@ -4,8 +4,6 @@ defaultContentLanguage = "zh"
 title = "g1eny0ung 的博客"
 theme = "dream"
 
-copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。<br /><br />背景使用了 <a href="https://www.pexels.com/zh-cn/" target="_blank">Pexels</a> 上 <a href="https://www.pexels.com/zh-cn/@minan1398" target="_blank">Min An</a> 拍摄的<a href="https://www.pexels.com/zh-cn/photo/1454794/" target="_blank">图片</a>。'
-
 enableGitInfo = true
 enableRobotsTXT = true
 
@@ -17,38 +15,26 @@ shortname = "g1eny0ung"
 [services.googleAnalytics]
 ID = 'G-K6V0YY3HWS'
 
-# Paginate = 6
-
-# https://gohugo.io/news/0.60.0-relnotes/
+[markup]
 [markup.goldmark.renderer]
 unsafe = true
-
-[outputs]
-home = ["HTML", "RSS", "JSON"]
+[markup.highlight]
+noClasses = false
 
 [params]
-background = "#fff"
-backgroundImage = "/me/background.jpg"
-linkColor = "seagreen"
+lightTheme = "emerald"
+darkTheme = "forest"
 
-# dark mode
-# defaultDark = true
-backgroundDark = "#333"
-backgroundImageDark = "/me/background.jpg"
-darkLinkColor = "darkseagreen"
-# darkNav = true
-# dark404 = true
+# backgroundImage = "/me/background.jpg"
+# backgroundImageDark = ""
 
 images = ["me/background.jpg"]
 
 author = "g1eny0ung"
-description = "g1eny0ung 的生活记录"
+description = "The life record of g1eny0ung is presented here."
 avatar = "/me/yy.jpg"
 headerTitle = "g1eny0ung 的博客"
 motto = "与其感慨路难行，不如马上出发。"
-# maxTags = 5
-# categoriesLimitInHeader = 6 # deprecated
-# headerBottomText = "" # deprecated
 
 # footerBottomText = ""
 
@@ -59,6 +45,7 @@ utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
 # valine = true
 # LEANCLOUD_APP_ID = ""
 # LEANCLOUD_APP_KEY = ""
+# VALINE_LANGUAGE = ""
 
 email = "g1enyy0ung@gmail.com"
 
@@ -66,28 +53,16 @@ siteStartYear = 2016
 
 favicon = "/favicon.ico"
 
-highlightjs = true
-# highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
-highlightjsExtraLanguages = ["clojure", "ocaml"]
-highlightjsTheme = "tomorrow"
-highlightjsThemeDark = "tomorrow-night"
-
-# search
-enableSearch = true
+# Syntax highlighting
+customSyntaxHighlighting = true
 
 # options
+stickyNav = true
 showSummaryCoverInPost = true
 # hasTwitterEmbed = true
-# reversePostAndAside = true
-# shareInAside = true
-fixedNav = true
-transparentNav = true
-# collapsibleTags = true
-# collapseBySummary = true
 
 [params.advanced]
 customCSS = ["css/custom.css"]
-# customJSBefore = []
 # customJS = []
 
 [params.experimental]
