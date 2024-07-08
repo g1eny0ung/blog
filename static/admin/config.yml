@@ -5,12 +5,12 @@ publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
 collections:
-  - name: 'posts'
+  - name: 'post'
     label: 'Posts'
-    folder: 'content/posts' # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
+    folder: 'content/posts'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
       - label: 'Draft'
         name: 'draft'
         widget: 'boolean'
@@ -21,7 +21,7 @@ collections:
       - label: 'Publish Date'
         name: 'date'
         widget: 'datetime'
-      - label: 'Last Mod'
+      - label: 'Last Modified Date'
         name: 'lastmod'
         widget: 'datetime'
       - label: 'Author'
@@ -36,10 +36,20 @@ collections:
       - label: 'Categories'
         name: 'categories'
         widget: 'list'
+        summary: '{{fields.category}}'
+        field:
+          label: 'Category'
+          name: 'category'
+          widget: 'string'
       - label: 'Tags'
         name: 'tags'
         widget: 'list'
-      - label: 'No Last Mod'
+        summary: '{{fields.tag}}'
+        field:
+          label: 'Tag'
+          name: 'tag'
+          widget: 'string'
+      - label: 'Disable Last Modified Date'
         name: 'nolastmod'
         widget: 'boolean'
         default: false
@@ -49,10 +59,10 @@ collections:
         widget: 'markdown'
   - name: 'about'
     label: 'About'
-    folder: 'content/about' # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
+    folder: 'content/about'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
       - label: 'Draft'
         name: 'draft'
         widget: 'boolean'
@@ -62,9 +72,6 @@ collections:
         widget: 'string'
       - label: 'Publish Date'
         name: 'date'
-        widget: 'datetime'
-      - label: 'Last Mod'
-        name: 'lastmod'
         widget: 'datetime'
 
       - label: 'Body'
