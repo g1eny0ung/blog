@@ -2,68 +2,78 @@ backend:
   name: git-gateway
   branch: master
 publish_mode: editorial_workflow
-media_folder: "static/img"
-public_folder: "/img"
+media_folder: static/img
+public_folder: /img
 collections:
-  - name: "post"
-    label: "Post"
-    folder: "content/posts" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - label: "Draft"
-        name: "draft"
-        widget: "boolean"
+  - name: 'post'
+    label: 'Post'
+    folder: 'content/posts'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - label: 'Draft'
+        name: 'draft'
+        widget: 'boolean'
         default: false
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Publish Date"
-        name: "date"
-        widget: "datetime"
-      - label: "Last Mod"
-        name: "lastmod"
-        widget: "datetime"
-      - label: "Author"
-        name: "author"
-        widget: "string"
-      - label: "Cover"
-        name: "cover"
-        widget: "image"
-      - label: "Categories"
-        name: "categories"
-        widget: "list"
-      - label: "Tags"
-        name: "tags"
-        widget: "list"
-      - label: "No Last Mod"
-        name: "nolastmod"
-        widget: "boolean"
+      - label: 'Title'
+        name: 'title'
+        widget: 'string'
+      - label: 'Publish Date'
+        name: 'date'
+        widget: 'datetime'
+      - label: 'Last Modified Date'
+        name: 'lastmod'
+        widget: 'datetime'
+      - label: 'Author'
+        name: 'author'
+        widget: 'string'
+      - label: 'Author Link'
+        name: 'authorlink'
+        widget: 'string'
+      - label: 'Cover'
+        name: 'cover'
+        widget: 'image'
+      - label: 'Categories'
+        name: 'categories'
+        widget: 'list'
+        summary: '{{fields.category}}'
+        field:
+          label: 'Category'
+          name: 'category'
+          widget: 'string'
+      - label: 'Tags'
+        name: 'tags'
+        widget: 'list'
+        summary: '{{fields.tag}}'
+        field:
+          label: 'Tag'
+          name: 'tag'
+          widget: 'string'
+      - label: 'Disable Last Modified Date'
+        name: 'nolastmod'
+        widget: 'boolean'
         default: false
 
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
-  - name: "about"
-    label: "About"
-    folder: "content/about" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - label: "Draft"
-        name: "draft"
-        widget: "boolean"
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+  - name: 'about'
+    label: 'About'
+    folder: 'content/about'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - label: 'Draft'
+        name: 'draft'
+        widget: 'boolean'
         default: false
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Publish Date"
-        name: "date"
-        widget: "datetime"
-      - label: "Last Mod"
-        name: "lastmod"
-        widget: "datetime"
+      - label: 'Title'
+        name: 'title'
+        widget: 'string'
+      - label: 'Publish Date'
+        name: 'date'
+        widget: 'datetime'
 
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
