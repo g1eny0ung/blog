@@ -6,7 +6,7 @@ media_folder: static/img
 public_folder: /img
 collections:
   - name: 'post'
-    label: 'Posts'
+    label: 'Post'
     folder: 'content/posts'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
