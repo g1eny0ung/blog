@@ -8,8 +8,8 @@ images:
   - /img/Understanding-Computation.jpg
 categories:
   - 读书
-tags:
   - 技术
+tags:
   - 感悟
   - Ruby Lang
 ---

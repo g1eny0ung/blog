@@ -7,10 +7,10 @@ cover: /img/Write-Before-Petal3.jpg
 images:
   - /img/Write-Before-Petal3.jpg
 categories:
+  - 技术
   - 开源
   - 软件计划
 tags:
-  - 技术
   - 豆瓣FM
 ---
 

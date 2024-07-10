@@ -8,6 +8,7 @@ images:
   - /img/build-a-chrome-extension-with-figwheel-main.png
 categories:
   - ENG
+  - 技术
 tags:
   - Chrome Extension
   - ClojureScript
