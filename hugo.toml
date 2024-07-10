@@ -13,7 +13,7 @@ hasCJKLanguage = true
 [services.disqus]
 shortname = "g1eny0ung"
 [services.googleAnalytics]
-ID = 'G-K6V0YY3HWS'
+ID = "G-K6V0YY3HWS"
 
 [markup]
 [markup.goldmark.renderer]
