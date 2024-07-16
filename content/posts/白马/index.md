@@ -3,9 +3,9 @@ title: 白马
 date: 2018-02-22T21:19:51+08:00
 author: g1eny0ung
 avatar: /me/yy.jpg
-cover: /img/白马.jpg
+cover: 白马.jpg
 images:
-  - /img/白马.jpg
+  - 白马.jpg
 categories:
   - 读书
   - 杂想

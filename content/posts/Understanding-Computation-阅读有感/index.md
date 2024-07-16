@@ -3,9 +3,9 @@ title: Understanding Computation 阅读有感
 date: 2018-01-09T14:00:11+08:00
 author: g1eny0ung
 avatar: /me/yy.jpg
-cover: /img/Understanding-Computation.jpg
+cover: Understanding-Computation.jpg
 images:
-  - /img/Understanding-Computation.jpg
+  - Understanding-Computation.jpg
 categories:
   - 读书
   - 技术

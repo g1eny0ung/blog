@@ -2,9 +2,9 @@
 title: 2017年的总结
 date: 2017-12-31T23:58:15+08:00
 author: Yue Yang
-cover: /img/2017年的总结.jpg
+cover: 2017年的总结.jpg
 images:
-  - /img/2017年的总结.jpg
+  - 2017年的总结.jpg
 categories:
   - 生活
   - 给自己的总结

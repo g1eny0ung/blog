@@ -2,9 +2,9 @@
 title: 2016年的总结
 date: 2016-12-30T22:36:49+08:00
 author: Yue Yang
-cover: /img/2016年的总结.jpg
+cover: 2016年的总结.jpg
 images:
-  - /img/2016年的总结.jpg
+  - 2016年的总结.jpg
 categories:
   - 生活
   - 给自己的总结

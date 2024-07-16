@@ -3,9 +3,9 @@ title: 编程的正确性
 date: 2020-05-07T21:41:50+08:00
 author: g1eny0ung
 avatar: /me/yy.jpg
-cover: /img/编程的正确性.jpg
+cover: 编程的正确性.jpg
 images:
-  - /img/编程的正确性.jpg
+  - 编程的正确性.jpg
 categories:
   - 杂想
   - 技术

@@ -3,9 +3,9 @@ title: 禅修一
 date: 2018-04-28T11:08:58+08:00
 author: g1eny0ung
 avatar: /me/yy.jpg
-cover: /img/禅修1.jpg
+cover: 禅修1.jpg
 images:
-  - /img/禅修1.jpg
+  - 禅修1.jpg
 categories:
   - 生活
   - 禅修

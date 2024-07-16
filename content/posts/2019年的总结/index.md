@@ -2,9 +2,9 @@
 title: 2019年的总结
 date: 2019-12-30T21:24:06+08:00
 author: Yue Yang
-cover: /img/2019年的总结.jpg
+cover: 2019年的总结.jpg
 images:
-  - /img/2019年的总结.jpg
+  - 2019年的总结.jpg
 categories:
   - 生活
   - 给自己的总结

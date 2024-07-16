@@ -3,9 +3,9 @@ title: 禅修二
 date: 2018-10-29T09:30:49+08:00
 author: g1eny0ung
 avatar: /me/yy.jpg
-cover: /img/禅修2.jpg
+cover: 禅修2.jpg
 images:
-  - /img/禅修2.jpg
+  - 禅修2.jpg
 categories:
   - 生活
   - 禅修

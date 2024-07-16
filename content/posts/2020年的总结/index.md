@@ -2,9 +2,9 @@
 title: 2020年的总结
 date: 2021-01-05T21:52:44+08:00
 author: Yue Yang
-cover: /img/2020年的总结.jpg
+cover: 2020年的总结.jpg
 images:
-  - /img/2020年的总结.jpg
+  - 2020年的总结.jpg
 categories:
   - 生活
   - 给自己的总结

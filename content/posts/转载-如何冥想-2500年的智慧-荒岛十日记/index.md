@@ -3,9 +3,9 @@ title: 如何冥想？2500年的智慧-荒岛十日记（转载）
 date: 2020-03-20T22:02:47+08:00
 author: 奶牛Denny
 authorlink: https://zhihu.com/people/dennythecow
-cover: /img/如何冥想-2500年的智慧-荒岛十日记.jpg
+cover: 如何冥想-2500年的智慧-荒岛十日记.jpg
 images:
-  - /img/如何冥想-2500年的智慧-荒岛十日记.jpg
+  - 如何冥想-2500年的智慧-荒岛十日记.jpg
 categories:
   - 生活
   - 禅修
