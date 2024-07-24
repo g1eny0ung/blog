@@ -59,6 +59,7 @@ customSyntaxHighlighting = true
 # options
 stickyNav = true
 showSummaryCoverInPost = true
+showPrevNextPost = true
 # hasTwitterEmbed = true
 
 [params.advanced]
