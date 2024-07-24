@@ -1,0 +1,72 @@
+baseURL = "https://g1en.site"
+languageCode = "zh-Hans"
+defaultContentLanguage = "zh"
+title = "g1eny0ung 的博客"
+theme = "dream"
+
+enableGitInfo = true
+enableRobotsTXT = true
+
+hasCJKLanguage = true
+
+# [services]
+# [services.disqus]
+# shortname = "g1eny0ung"
+# [services.googleAnalytics]
+# ID = "G-K6V0YY3HWS"
+
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+[markup.highlight]
+noClasses = false
+
+[params]
+lightTheme = "emerald"
+darkTheme = "forest"
+
+# backgroundImage = "/me/background.jpg"
+# backgroundImageDark = ""
+
+images = ["me/background.jpg"]
+
+author = "g1eny0ung"
+description = "The life record of g1eny0ung is presented here."
+avatar = "/me/yy.jpg"
+headerTitle = "g1eny0ung 的博客"
+motto = "与其感慨路难行，不如马上出发。"
+
+# footerBottomText = ""
+
+rss = true
+
+# utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
+
+# valine = true
+# LEANCLOUD_APP_ID = ""
+# LEANCLOUD_APP_KEY = ""
+# VALINE_LANGUAGE = ""
+
+email = "g1enyy0ung@gmail.com"
+
+siteStartYear = 2016
+
+favicon = "/favicon.ico"
+
+# Syntax highlighting
+customSyntaxHighlighting = true
+
+# options
+stickyNav = true
+showSummaryCoverInPost = true
+showPrevNextPost = true
+# hasTwitterEmbed = true
+
+[params.advanced]
+customCSS = ["css/custom.css"]
+# customJS = []
+
+[params.experimental]
+jsDate = true
+jsDateFormat = "yyyy年MM月dd日"
+# jsDateFormat = "yyyy年MM月dd日，cccc"
