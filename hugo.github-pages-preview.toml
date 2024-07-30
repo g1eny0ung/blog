@@ -1,4 +1,4 @@
-baseURL = "https://g1en.site"
+baseURL = "https://g1eny0ung.github.io/blog"
 languageCode = "zh-Hans"
 defaultContentLanguage = "zh"
 title = "g1eny0ung 的博客"
@@ -9,22 +9,17 @@ enableRobotsTXT = true
 
 hasCJKLanguage = true
 
-[services]
-[services.disqus]
-shortname = "g1eny0ung"
-[services.googleAnalytics]
-ID = "G-K6V0YY3HWS"
+# [services]
+# [services.disqus]
+# shortname = "g1eny0ung"
+# [services.googleAnalytics]
+# ID = "G-K6V0YY3HWS"
 
 [markup]
 [markup.goldmark.renderer]
 unsafe = true
 [markup.highlight]
 noClasses = false
-
-# [taxonomies]
-# category = "categories"
-# tag = "tags"
-# series = "series"
 
 [params]
 lightTheme = "emerald"
@@ -45,7 +40,7 @@ motto = "与其感慨路难行，不如马上出发。"
 
 rss = true
 
-utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
+# utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
 
 # valine = true
 # LEANCLOUD_APP_ID = ""
