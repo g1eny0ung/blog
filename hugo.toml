@@ -30,14 +30,14 @@ noClasses = false
 lightTheme = "emerald"
 darkTheme = "forest"
 
-# backgroundImage = "/me/background.jpg"
+# backgroundImage = "me/background.jpg"
 # backgroundImageDark = ""
 
 images = ["me/background.jpg"]
 
 author = "g1eny0ung"
 description = "The life record of g1eny0ung is presented here."
-avatar = "/me/yy.jpg"
+avatar = "me/yy.jpg"
 headerTitle = "g1eny0ung 的博客"
 motto = "与其感慨路难行，不如马上出发。"
 
@@ -56,7 +56,7 @@ email = "g1enyy0ung@gmail.com"
 
 siteStartYear = 2016
 
-favicon = "/favicon.ico"
+favicon = "favicon.ico"
 
 # Syntax highlighting
 customSyntaxHighlighting = true
