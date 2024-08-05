@@ -1,6 +1,6 @@
 baseURL = "https://g1eny0ung.github.io/blog"
-languageCode = "zh-Hans"
 defaultContentLanguage = "zh"
+languageCode = "zh-Hans"
 title = "g1eny0ung 的博客"
 theme = "dream"
 
@@ -58,6 +58,7 @@ customSyntaxHighlighting = true
 
 # options
 stickyNav = true
+collapseNavTaxonomies = true
 showTableOfContents = true
 showSummaryCoverInPost = true
 showPrevNextPost = true
