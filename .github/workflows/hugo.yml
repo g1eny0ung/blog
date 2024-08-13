@@ -52,6 +52,8 @@ jobs:
           HUGO_ENVIRONMENT: production
         run: |
           hugo \
+            --cleanDestinationDir \
+            --gc \
             --minify \
             --config hugo.github-pages-preview.toml
       - name: Upload artifact
