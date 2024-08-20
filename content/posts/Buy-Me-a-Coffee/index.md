@@ -52,3 +52,4 @@ If you like my works or find them helpful, please consider buying me a cup of co
   - 2021-06-23 收到来自 **末成未** 的 +20.00 CNY，十分感谢
   - 2022-05-04 收到匿名的 +20.00 CNY，十分感谢
   - 2022-06-25 收到匿名的 +10.00 CNY，十分感谢
+  - 2024-08-20 收到来自 **吃芝麻糊** 的 +1.88 CNY，十分感谢
