@@ -67,6 +67,7 @@ customSyntaxHighlighting = true
 stickyNav = true
 reorderNavItems = ["search", "github", "posts", "categories", "tags", "rss"]
 collapseNavItems = ["posts", "categories", "tags", "rss"]
+# noDefaultSummaryCover = true
 showTableOfContents = true
 showSummaryCoverInPost = true
 showPrevNextPost = true
