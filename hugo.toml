@@ -71,7 +71,6 @@ collapseNavItems = ["posts", "categories", "tags", "rss"]
 showTableOfContents = true
 showSummaryCoverInPost = true
 showPrevNextPost = true
-# hasTwitterEmbed = true
 
 [params.navItems]
 github = { href = "https://github.com/g1eny0ung", target = "_blank", icon = "logo-github", title = "GitHub" }

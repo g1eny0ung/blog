@@ -71,7 +71,6 @@ collapseNavItems = ["posts", "categories", "tags"]
 showTableOfContents = true
 showSummaryCoverInPost = true
 showPrevNextPost = true
-# hasTwitterEmbed = true
 
 [params.navItems]
 
