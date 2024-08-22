@@ -9,7 +9,7 @@ date: 2019-11-11T01:31:25+08:00
 
 - [hugo-theme-dream :seedling:](https://github.com/g1eny0ung/hugo-theme-dream)
 
-  [HUGO](https://gohugo.io) 的博客主题，也就是你现在看到的博客主题
+  [HUGO](https://gohugo.io) 的主题，也是我的博客所使用的主题
 
 - [Alfred-Colors-workflow](https://github.com/g1eny0ung/Alfred-Colors-workflow)
 
