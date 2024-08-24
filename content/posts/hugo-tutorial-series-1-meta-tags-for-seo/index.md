@@ -18,19 +18,19 @@ This article will show you how to add SEO related meta tags to your Hugo site.
 
 <!--more-->
 
-This a an experimental article in my Hugo tutorial series. I will show you how to
+This is an experimental article in my Hugo tutorial series. I will show you how to
 add SEO related meta tags to your Hugo site, with a real-world example.
 
 ## Before starting
 
-For anybody who is not familiar with SEO, it stands for Search Engine Optimization.
+For anybody unfamiliar with SEO, it stands for Search Engine Optimization.
 It is the practice of increasing the quantity and quality of traffic to your website through organic search engine results.
 
 For more information, I recommend you to read the [SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) from Google.
 
 ## How Hugo can help us with SEO
 
-Hugo provides serval embedded template for generating meta tags, you can find them in
+Hugo provides several embedded templates for generating meta tags, you can find them in
 [Embedded templates](https://gohugo.io/templates/embedded/). Some of them are
 useful for SEO, such as `opengraph.html`.
 
@@ -38,7 +38,7 @@ We will use them in this article.
 
 ## Create a new partial template
 
-First, we can create a `head.html` in the `layouts/partials` directory, and include `opengraph.html` and `twitter_cards.html` in it.
+First, we can create a `head.html` in the `layouts/partials` directory and include `opengraph.html` and `twitter_cards.html` in it.
 
 ```html
 {{ template "_internal/opengraph.html" . }}
@@ -128,7 +128,7 @@ Structured data is a standardized format for providing information about a page 
 For more information, you can visit the [Introduction to structured data markup in Google Search](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data).
 
 We can add structured data to our Hugo site by adding the internal `schema.html` template to single templates.
-For example, you may have below code in your `single.html`:
+For example, you may have the below code in your `single.html`:
 
 ```html
 <article>
@@ -173,6 +173,6 @@ It is very easy to add SEO related meta tags to your Hugo site, thanks to the po
 
 But it is not enough, to master SEO for your Hugo site, you need to learn more about SEO and keep updating your site.
 
-I recommend you to start with [Embedded templates](https://gohugo.io/templates/embedded/), read the source code of
-these templates, then further explore the knowledge extended by these codes. By doing this,
+I recommend you start with [Embedded templates](https://gohugo.io/templates/embedded/), read the source code of
+these templates, and then further explore the knowledge extended by these codes. By doing this,
 you will have a better understanding of Hugo & SEO.
