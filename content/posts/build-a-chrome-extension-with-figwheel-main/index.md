@@ -22,7 +22,7 @@ Bring a smooth experience to the development of Chrome Extension.
 ## Before starting
 
 Several years ago, I developed a chrome extension with ClojureScript,
-which named [GitHub Colorful Contributions](https://github.com/g1eny0ung/github-colorful-contributions-graph).
+which was named [GitHub Colorful Contributions](https://github.com/g1eny0ung/github-colorful-contributions-graph).
 
 That was the first time I have used [lein-figwheel](https://github.com/bhauman/lein-figwheel), a tool that can give you an extremely smooth live hot reloading in development.
 
@@ -58,7 +58,7 @@ lein fig:build
 
 to bootstrap the dev environment. After build, a new tab will be opened automatically and the repl will also be launched.
 
-We can test it by run below in repl:
+We can test it by running below in repl:
 
 ```clj
 (js/alert "Am I connected?")
@@ -74,7 +74,8 @@ To develop a chrome extension, we need to create a `manifest.json` in the `resou
 touch resources/public/manifest.json
 ```
 
-You can view [Manifest file format](https://developer.chrome.com/docs/extensions/mv2/manifest/#manifest_version) for more details. This time we will fill the content below:
+You can view [Manifest file format](https://developer.chrome.com/docs/extensions/mv2/manifest/#manifest_version) for more details.
+This time we will fill in the content below:
 
 ```json
 {
@@ -91,7 +92,7 @@ Then we can go to the next step.
 
 ## Load unpacked
 
-Now we can put it into extensions, open `chrome://extensions` and click **Load unpacked** to select `resources/public` folder:
+Now we can put it into extensions, open `chrome://extensions`, and click **Load unpacked** to select `resources/public` folder:
 
 ![Load unpacked](/img/build-a-chrome-extension-with-figwheel-main/load-unpacked.png)
 
@@ -101,7 +102,7 @@ Everything looks normal, but when you click the extension icon in the extensions
 
 This is the first point we need to pay attention to: [Chrome Apps Content Security Policy](https://developer.chrome.com/docs/apps/contentSecurityPolicy/).
 
-Since we are in a development environment, Figwheel Main will insert some inline scripts (relate to its own functionality) into the document. You can view the `dev-main.js`:
+Since we are in a development environment, Figwheel Main will insert some inline scripts (related to its functionality) into the document. You can view the `dev-main.js`:
 
 ```js
 if (typeof goog == 'undefined') document.write('<script src="/cljs-out/dev/goog/base.js"></script>')
@@ -124,7 +125,7 @@ This violates this rule:
 
 > You can't use inline scripting in your Chrome App pages. The restriction bans both \<script\> blocks and event handlers (\<button onclick="..."\>).
 
-Refer to the errors above, to solve this problem, we need to set `content_security_policy` field in the `manifest.json`:
+Refer to the errors above, to solve this problem, we need to set the `content_security_policy` field in the `manifest.json`:
 
 ```json
 {
@@ -132,16 +133,18 @@ Refer to the errors above, to solve this problem, we need to set `content_securi
 }
 ```
 
-The errors contain all `sha256-xxx` which need to be filled in the policy field. This is a little bit cumbersome. You may think why we can't use the `unsafe-inline`?
+The errors contain all `sha256-xxx` which need to be filled in the policy field. This is a little bit cumbersome. You may wonder why we can't use the `unsafe-inline`?
 Because chrome ignores this keyword especially, even the errors tell you can 😢.
 
 After finishing this, edit the code and you will see that your code has completed the hot reload 😎.
 
 ## Production
 
-After you finish your application, you still need to do something before bundle it.
+After you finish your application, you still need to do something before bundling it.
 
-By developing the chrome extension, you need to use `chrome` API to do somethings, like save and sync the user storage, etc. We need to tell the closure compiler `chrome` is the [externs](https://developers.google.com/closure/compiler/docs/externs-and-exports) we used.
+To develop the chrome extension, you need to use `chrome` API to do some things,
+like save and sync the user storage, etc. We need to tell the closure compiler
+`chrome` is the [externs](https://developers.google.com/closure/compiler/docs/externs-and-exports) we used.
 
 There are two files we need to download: <https://github.com/google/closure-compiler/blob/master/contrib/externs/chrome.js> and <https://github.com/google/closure-compiler/blob/master/contrib/externs/chrome_extensions.js>.
 
