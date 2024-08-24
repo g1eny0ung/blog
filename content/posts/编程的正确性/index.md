@@ -11,6 +11,7 @@ categories:
   - 技术
 tags:
   - 编程语言
+  - 感悟
 ---
 
 The Worse is Better.

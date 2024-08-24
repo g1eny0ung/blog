@@ -7,7 +7,7 @@ cover: build-a-chrome-extension-with-figwheel-main.png
 images:
   - build-a-chrome-extension-with-figwheel-main.png
 categories:
-  - ENG
+  - English
   - 技术
 tags:
   - Chrome Extension

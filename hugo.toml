@@ -72,6 +72,9 @@ showTableOfContents = true
 showSummaryCoverInPost = true
 showPrevNextPost = true
 
+[params.social]
+twitter = "g1eny0ung"
+
 [params.navItems]
 github = { href = "https://github.com/g1eny0ung", target = "_blank", icon = "logo-github", title = "GitHub" }
 
