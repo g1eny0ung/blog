@@ -21,9 +21,10 @@ If you like my works or find them helpful, please consider buying me a cup of co
 
 ## 捐赠方式（Ways to Give）
 
-> 请附加一下信息或者留言，方便我可以[将捐助记录 📝 下来](#捐赠列表donation-list)，十分感谢。
+> [!IMPORTANT]
+> 请附加一下信息或者留言，方便我可以[将捐助记录 📝 在下方](#捐赠列表donation-list)，十分感谢。
 >
-> Please attach some information or leave a message so that I can [record the donation 📝](#捐赠列表donation-list), thank you very much.
+> Please attach some information or leave a message so that I can [record the donation 📝 below](#捐赠列表donation-list), thank you very much.
 
 ### GitHub Sponsors
 

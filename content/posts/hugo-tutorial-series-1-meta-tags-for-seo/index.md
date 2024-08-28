@@ -106,7 +106,9 @@ In the `if` block, we set the `author` and `description` meta tags for the post 
 and the `keywords` meta tag is calculated from the post's `keywords` front matter
 with fallbacks (code related to keywords is taken from [here](https://github.com/gohugoio/hugo/blob/7792392a6f6fda7b1654ba0517e78c62f0a8c905/tpl/tplimpl/embedded/templates/schema.html#L28)).
 
+> [!NOTE]
 > Depending on your situation, you may need to judge other page types, like `{{ if eq .Type "articles" }}`.
+{text="Note"}
 
 Then in the `else` block, we set the global `author` and `description` meta tags for fallbacks.
 This requires you to set the `author` and `description` in the `hugo.toml`:
