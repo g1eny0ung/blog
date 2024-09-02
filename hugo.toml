@@ -16,6 +16,8 @@ shortname = "g1eny0ung"
 ID = "G-K6V0YY3HWS"
 
 [markup]
+[markup.goldmark.parser]
+wrapStandAloneImageWithinParagraph = false
 [markup.goldmark.parser.attribute]
 block = true
 [markup.goldmark.renderer]

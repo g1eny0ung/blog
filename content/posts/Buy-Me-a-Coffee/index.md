@@ -36,7 +36,8 @@ If you like my works or find them helpful, please consider buying me a cup of co
 
 ### WeChat
 
-<img src="/me/sponsor-me.png" alt="微信赞赏码" width="50%" />
+![微信赞赏码](/me/sponsor-me.png)
+{width="50%"}
 
 ## 捐赠列表（Donation List）
 
