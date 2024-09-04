@@ -56,7 +56,9 @@ utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
 # valine = true
 # LEANCLOUD_APP_ID = ""
 # LEANCLOUD_APP_KEY = ""
-# VALINE_LANGUAGE = ""
+
+# waline = true
+# walineServer = ""
 
 email = "g1enyy0ung@gmail.com"
 
