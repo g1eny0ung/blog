@@ -35,7 +35,7 @@
     "channels": [
       {
         "guid": "github-sponsors",
-        "type": "gateway",
+        "type": "payment-provider",
         "address": "https://github.com/sponsors/g1eny0ung",
         "description": "GitHub Sponsors page for donations."
       },
