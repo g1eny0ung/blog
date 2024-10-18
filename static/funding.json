@@ -1,0 +1,89 @@
+{
+  "version": "v1.0.0",
+
+  "entity": {
+    "type": "individual",
+    "role": "maintainer",
+    "name": "Yue Yang",
+    "email": "g1enyy0ung+flossfund@gmail.com",
+    "description": "I'm Yue Yang. An open source enthusiast who maintains and participates in many projects. I'm currently working on a project called Chaos Mesh. You can find more information about me on my GitHub page.",
+    "webpageUrl": {
+      "url": "https://github.com/g1eny0ung",
+      "wellKnown": "https://github.com/g1eny0ung/g1eny0ung/blob/master/.well-known/funding-manifest-urls"
+    }
+  },
+
+  "projects": [
+    {
+      "guid": "chaos-mesh",
+      "name": "Chaos Mesh",
+      "description": "A Chaos Engineering Platform for Kubernetes.",
+      "webpageUrl": {
+        "url": "https://chaos-mesh.org",
+        "wellKnown": "https://chaos-mesh.org/.well-known/funding-manifest-urls"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/chaos-mesh/chaos-mesh",
+        "wellKnown": "https://github.com/chaos-mesh/chaos-mesh/.well-known/funding-manifest-urls"
+      },
+      "licenses": ["spdx:Apache-2.0"],
+      "tags": ["cloud", "devops", "linux", "networking", "operating-systems", "server", "software-engineering"]
+    }
+  ],
+
+  "funding": {
+    "channels": [
+      {
+        "guid": "github-sponsors",
+        "type": "gateway",
+        "address": "https://github.com/sponsors/g1eny0ung",
+        "description": "GitHub Sponsors page for donations."
+      },
+      {
+        "guid": "eth",
+        "type": "other",
+        "address": "0x87C769ebe2448FBcf1Bb539ddc517AB01c36557f",
+        "description": "Ethereum address for donations."
+      },
+      {
+        "guid": "sol",
+        "type": "other",
+        "address": "6GiyhZpHpXWpeMm4PsU2R7WgG8JN6mauiyDED5DJTrhH",
+        "description": "Solana address for donations."
+      }
+    ],
+
+    "plans": [
+      {
+        "guid": "buy-me-a-coffee",
+        "status": "active",
+        "name": "Buy me a coffee",
+        "description": "A cup of coffee a month. Thank you very much for your support.",
+        "amount": 5,
+        "currency": "USD",
+        "frequency": "monthly",
+        "channels": ["github-sponsors"]
+      },
+      {
+        "guid": "10-100-a-month",
+        "status": "active",
+        "name": "$10-$100 a month",
+        "description": "More sponsorships! You can view the details on the GitHub Sponsors page.",
+        "amount": 10,
+        "currency": "USD",
+        "frequency": "monthly",
+        "channels": ["github-sponsors"]
+      },
+      {
+        "guid": "one-time-donation",
+        "status": "active",
+        "name": "One-time donation",
+        "description": "Both GitHub Sponsors and cryptocurrency are supported. Very thankful for your support. After the donation, please contact me via email, and I will add you to the sponsor list.",
+        "amount": 100,
+        "currency": "USD",
+        "frequency": "one-time",
+        "channels": ["github-sponsors", "eth", "sol"]
+      }
+    ]
+  }
+}
