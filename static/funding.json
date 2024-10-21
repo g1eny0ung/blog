@@ -24,7 +24,7 @@
       },
       "repositoryUrl": {
         "url": "https://github.com/chaos-mesh/chaos-mesh",
-        "wellKnown": "https://github.com/chaos-mesh/chaos-mesh/.well-known/funding-manifest-urls"
+        "wellKnown": "https://github.com/chaos-mesh/chaos-mesh/blob/master/.well-known/funding-manifest-urls"
       },
       "licenses": ["spdx:Apache-2.0"],
       "tags": ["cloud", "devops", "linux", "networking", "operating-systems", "server", "software-engineering"]
