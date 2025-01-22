@@ -77,7 +77,7 @@ some of the most common meta tags are `author`, `description`, `keywords`, etc:
 {{ if eq .Type "posts" }}
 <!-- Page Author & Description -->
 <meta name="author" content="{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ site.Params.author }}{{ end }}" />
-<meta name="description" content="{{ .Summary | plainify }}" />
+<meta name="description" content="{{ (or .Description .Summary) | plainify }}" />
 
 <!-- Keywords -->
 {{- $keywords := slice }}
