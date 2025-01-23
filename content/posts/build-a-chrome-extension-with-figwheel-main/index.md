@@ -94,11 +94,11 @@ Then we can go to the next step.
 
 Now we can put it into extensions, open `chrome://extensions`, and click **Load unpacked** to select `resources/public` folder:
 
-![Load unpacked](/img/build-a-chrome-extension-with-figwheel-main/load-unpacked.png)
+![Load unpacked](https://g1eny0ung.coding.net/p/experimental-projects/d/img/git/raw/master/build-a-chrome-extension-with-figwheel-main/load-unpacked.png)
 
 Everything looks normal, but when you click the extension icon in the extensions bar, some errors will occur:
 
-![Errors](/img/build-a-chrome-extension-with-figwheel-main/errors.png)
+![Errors](https://g1eny0ung.coding.net/p/experimental-projects/d/img/git/raw/master/build-a-chrome-extension-with-figwheel-main/errors.png)
 
 This is the first point we need to pay attention to: [Chrome Apps Content Security Policy](https://developer.chrome.com/docs/apps/contentSecurityPolicy/).
 

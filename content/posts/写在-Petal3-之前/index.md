@@ -3,9 +3,9 @@ title: 写在 Petal3 之前
 date: 2019-12-21T22:00:53+08:00
 author: g1eny0ung
 avatar: /me/yy.jpg
-cover: Write-Before-Petal3.jpg
+cover: cover.jpg
 images:
-  - Write-Before-Petal3.jpg
+  - cover.jpg
 categories:
   - 技术
   - 开源
@@ -24,7 +24,7 @@ tags:
 
 Petal 是一个因为我在大三时候的一个想法，诞生出来的东西。当时因为没有好用的豆瓣 FM 桌面版，所以决定要去自己写一个客户端去用。
 
-在描述未来之前，有必要说一下 Petal 在今年的“**成绩**”。
+在描述未来之前，有必要说一下 Petal 在今年的**“成绩”**。
 
 > 我统计了一下宣传 Petal 的几个地方，一共有以下几处：
 
