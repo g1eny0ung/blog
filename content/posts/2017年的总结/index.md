@@ -36,4 +36,4 @@ tags:
 
 忙碌了一年，脑袋里想不出来其他想说的了，祝大家新年快乐吧，附上一张人物的图片。
 
-![2017年的总结-人物](https://g1eny0ung.coding.net/p/experimental-projects/d/img/git/raw/master/2017%E5%B9%B4%E7%9A%84%E6%80%BB%E7%BB%93-%E4%BA%BA%E7%89%A9.jpg)
+![人物](人物.jpg)

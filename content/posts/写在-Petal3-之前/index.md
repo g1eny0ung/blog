@@ -45,7 +45,7 @@ Petal 是一个因为我在大三时候的一个想法，诞生出来的东西�
 > Petal 在今年发布了 9 个主要版本，其中 1 个主要版本，3 个功能版本，5 个补丁版本。<br />
 > 并且从今年年中开始统计了下载量，截止到目前为止，统计到了 11k 的下载：
 
-![写在-Petal3-之前-下载量](https://g1eny0ung.coding.net/p/experimental-projects/d/img/git/raw/master/%E5%86%99%E5%9C%A8-Petal3-%E4%B9%8B%E5%89%8D-%E4%B8%8B%E8%BD%BD%E9%87%8F.jpg)
+![下载量](下载量.jpg)
 
 如果加上之前没算到的，保守估计，我觉得应该能有 15k 了。
 
