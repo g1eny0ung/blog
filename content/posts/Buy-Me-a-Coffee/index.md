@@ -7,27 +7,29 @@ cover: Buy-Me-a-Coffee.jpg
 images:
   - Buy-Me-a-Coffee.jpg
 categories:
+  - English
   - 开源
 tags:
   - 赞赏
 weight: 1
 ---
 
-如果你喜欢我的作品或者发现它们对你有所帮助，可以考虑给我买一杯咖啡 ☕️。这将激励我在未来创作和维护更多的项目。🦾
+If you like my works or find them helpful, please consider buying me a cup of coffee ☕️. It inspires me to create and maintain more projects in the future. 🦾
 
 <!--more-->
 
-If you like my works or find them helpful, please consider buying me a cup of coffee ☕️. It inspires me to create and maintain more projects in the future. 🦾
+如果你喜欢我的作品或者发现它们对你有所帮助，可以考虑给我买一杯咖啡 ☕️。这将激励我在未来创作和维护更多的项目。🦾
 
-## 捐赠方式（Ways to Give）
+## Donation Methods (捐赠方式)
 
 > [!IMPORTANT]
-> 请附加一下信息或者留言，方便我可以[将捐助记录 📝 在下方](#捐赠列表donation-list)，十分感谢。
+> Please attach some information or leave a message so that I can [record the donation 📝 below](#donation-records-捐赠记录), thank you very much.
 >
-> Please attach some information or leave a message so that I can [record the donation 📝 below](#捐赠列表donation-list), thank you very much.
+> 请附加一下信息或者留言，方便我可以[将捐助记录 📝 在下方](#donation-records-捐赠记录)，十分感谢。
 
 ### GitHub Sponsors
 
+<!-- markdownlint-disable-next-line -->
 <iframe src="https://github.com/sponsors/g1eny0ung/button" title="Sponsor g1eny0ung" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 
 ### Patreon
@@ -39,7 +41,7 @@ If you like my works or find them helpful, please consider buying me a cup of co
 ![微信赞赏码](/me/sponsor-me.png)
 {width="50%"}
 
-## 捐赠列表（Donation List）
+## Donation Records (捐赠记录)
 
 - PayPal
   - 2020-06-13 Thanks to **Ishibashi Takeru** for donating +500.00 JPY
