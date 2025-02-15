@@ -8,7 +8,6 @@ images:
   - cover.svg
 categories:
   - English
-  - 生活
 tags:
   - 赞赏
 ---

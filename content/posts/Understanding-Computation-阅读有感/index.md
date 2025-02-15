@@ -10,7 +10,6 @@ categories:
   - 读书
   - 技术
 tags:
-  - 感悟
   - Ruby Lang
 ---
 

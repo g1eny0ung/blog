@@ -7,9 +7,7 @@ images:
   - 2020年的总结.jpg
 categories:
   - 生活
-  - 给自己的总结
-tags:
-  - 年度
+  - 年度总结
 ---
 
 2020 in a review.

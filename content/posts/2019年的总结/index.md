@@ -7,9 +7,7 @@ images:
   - 2019年的总结.jpg
 categories:
   - 生活
-  - 给自己的总结
-tags:
-  - 年度
+  - 年度总结
 ---
 
 2019 in a review.
