@@ -8,8 +8,6 @@ images:
   - cover.jpg
 categories:
   - 杂想
-# nolastmod: true
-draft: true
 ---
 
 聊聊简化效率工具的这件事。
