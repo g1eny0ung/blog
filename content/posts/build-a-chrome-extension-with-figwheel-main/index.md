@@ -146,7 +146,10 @@ To develop the chrome extension, you need to use `chrome` API to do some things,
 like save and sync the user storage, etc. We need to tell the closure compiler
 `chrome` is the [externs](https://developers.google.com/closure/compiler/docs/externs-and-exports) we used.
 
-There are two files we need to download: <https://github.com/google/closure-compiler/blob/master/contrib/externs/chrome.js> and <https://github.com/google/closure-compiler/blob/master/contrib/externs/chrome_extensions.js>.
+There are two files we need to download:
+
+- <https://github.com/google/closure-compiler/blob/master/contrib/externs/chrome.js>
+- <https://github.com/google/closure-compiler/blob/master/contrib/externs/chrome_extensions.js>
 
 Put them into `externs` folder and edit `dev.cljs.edn` like below content:
 
