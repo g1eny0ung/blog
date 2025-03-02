@@ -12,9 +12,6 @@ collections:
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
-    filter:
-      field: 'visibleInCMS'
-      value: true
     fields:
       - label: 'Draft'
         name: 'draft'
@@ -58,9 +55,6 @@ collections:
         name: 'nolastmod'
         widget: 'boolean'
         default: false
-      - name: 'visibleInCMS'
-        widget: 'hidden'
-        default: true
 
       - label: 'Body'
         name: 'body'
