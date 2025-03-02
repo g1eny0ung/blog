@@ -1,4 +1,3 @@
 ---
 headless: true
-visibleInCMS: false
 ---
