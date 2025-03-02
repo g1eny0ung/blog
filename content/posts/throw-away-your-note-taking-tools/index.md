@@ -2,7 +2,7 @@
 title: 对工具祛魅
 date: 2025-02-15T21:22:34+08:00
 lastmod: 2025-02-15T21:22:34+08:00
-avatar: /me/yy.jpg
+avatar: /img/personal/avatar.jpg
 cover: cover.jpg
 images:
   - cover.jpg

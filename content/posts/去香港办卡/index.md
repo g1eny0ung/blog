@@ -2,7 +2,7 @@
 title: 去香港办卡
 date: 2024-07-10T22:57:56+08:00
 lastmod: 2024-07-10T22:57:56+08:00
-avatar: /me/yy.jpg
+avatar: /img/personal/avatar.jpg
 cover: 去香港办卡.jpg
 images:
   - 去香港办卡.jpg

@@ -2,7 +2,7 @@
 title: 写在 Petal3 之前
 date: 2019-12-21T22:00:53+08:00
 author: g1eny0ung
-avatar: /me/yy.jpg
+avatar: /img/personal/avatar.jpg
 cover: cover.jpg
 images:
   - cover.jpg

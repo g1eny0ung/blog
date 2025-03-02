@@ -2,7 +2,7 @@
 title: "Hugo Theme Dream: Post Page Features"
 date: 2024-08-28T11:15:08+08:00
 lastmod: 2024-08-28T11:15:08+08:00
-avatar: /me/yy.jpg
+avatar: /img/personal/avatar.jpg
 cover: dream-post-features.png
 images:
   - dream-post-features.png

@@ -2,7 +2,7 @@
 title: "Hugo Tutorial Series 1: Meta Tags for SEO"
 date: 2024-08-24T13:41:35+08:00
 lastmod: 2024-08-24T13:41:35+08:00
-avatar: /me/yy.jpg
+avatar: /img/personal/avatar.jpg
 cover: meta-tags-for-seo.svg
 images:
   - meta-tags-for-seo.svg

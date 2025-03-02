@@ -2,7 +2,7 @@
 title: 禅修二
 date: 2018-10-29T09:30:49+08:00
 author: g1eny0ung
-avatar: /me/yy.jpg
+avatar: /img/personal/avatar.jpg
 cover: 禅修2.jpg
 images:
   - 禅修2.jpg

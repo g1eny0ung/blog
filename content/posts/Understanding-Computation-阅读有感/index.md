@@ -2,7 +2,7 @@
 title: Understanding Computation 阅读有感
 date: 2018-01-09T14:00:11+08:00
 author: g1eny0ung
-avatar: /me/yy.jpg
+avatar: /img/personal/avatar.jpg
 cover: Understanding-Computation.jpg
 images:
   - Understanding-Computation.jpg

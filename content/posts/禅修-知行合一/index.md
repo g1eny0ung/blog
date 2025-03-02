@@ -2,7 +2,7 @@
 title: 禅修一
 date: 2018-04-28T11:08:58+08:00
 author: g1eny0ung
-avatar: /me/yy.jpg
+avatar: /img/personal/avatar.jpg
 cover: 禅修1.jpg
 images:
   - 禅修1.jpg

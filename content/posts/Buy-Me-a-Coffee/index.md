@@ -2,7 +2,7 @@
 title: Buy Me a Coffee
 date: 2019-06-03T14:21:26+08:00
 author: g1eny0ung
-avatar: /me/yy.jpg
+avatar: /img/personal/avatar.jpg
 cover: Buy-Me-a-Coffee.jpg
 images:
   - Buy-Me-a-Coffee.jpg
@@ -38,7 +38,7 @@ If you like my works or find them helpful, please consider buying me a cup of co
 
 ### WeChat
 
-![微信赞赏码](/me/sponsor-me.png)
+![微信赞赏码](/img/personal/sponsor-me.png)
 {width="50%"}
 
 ## Donation Records (捐赠记录)

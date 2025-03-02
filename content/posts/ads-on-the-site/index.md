@@ -2,7 +2,7 @@
 title: Advertisements on the site
 date: 2025-01-23T18:58:40+08:00
 lastmod: 2025-01-23T18:58:40+08:00
-avatar: /me/yy.jpg
+avatar: /img/personal/avatar.jpg
 cover: cover.svg
 images:
   - cover.svg
