@@ -76,7 +76,7 @@ customSyntaxHighlighting = true
 
 # options
 stickyNav = true
-reorderNavItems = ["search", "github", "posts", "categories", "tags", "rss"]
+reorderNavItems = ["about", "search", "github", "posts", "categories", "tags", "rss"]
 collapseNavItems = ["posts", "categories", "tags", "rss"]
 # noDefaultSummaryCover = true
 showTableOfContents = true
