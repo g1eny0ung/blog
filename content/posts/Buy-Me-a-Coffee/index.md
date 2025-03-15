@@ -58,4 +58,5 @@ If you like my works or find them helpful, please consider buying me a cup of co
   - 2022-06-25 收到匿名的 +10.00 CNY，感谢支持
   - 2024-08-20 收到来自 **吃芝麻糊** 的 +1.88 CNY，感谢支持
   - 2024-09-19 收到来自 [ricolxwz.de](https://ricolxwz.de) 的 +8.80 CNY，感谢支持
+  - 2024-09-29 收到来自 [pepper](https://uioqps.github.io) 的 +60.00 CNY，感谢支持
   - 2025-03-15 收到来自 **墨** 的 +6.60 CNY，感谢支持
