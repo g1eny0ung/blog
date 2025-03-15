@@ -34,7 +34,8 @@ If you like my works or find them helpful, please consider buying me a cup of co
 
 ### Patreon
 
-[![Patreon](https://img.shields.io/badge/-Become%20a%20Patreon!-F1465A?style=for-the-badge&logo=patreon&logoColor=black)](https://patreon.com/join/g1eny0ung)
+<!-- markdownlint-disable-next-line -->
+<a href="https://www.patreon.com/bePatron?u=42327574" data-patreon-widget-type="become-patron-button">Become a member!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 ### WeChat
 
