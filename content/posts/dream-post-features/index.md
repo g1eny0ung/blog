@@ -8,6 +8,7 @@ images:
   - dream-post-features.png
 categories:
   - English
+math: true
 ---
 
 A demo post to show the features of a post page in Hugo Theme Dream.
@@ -51,11 +52,10 @@ graph TD;
 
 ## Mathematics
 
-```math
-This is an inline \(a^*=x-b^*\) equation.
-```
+This is an inline \(a^*=x-b^*\) equation. (`\(a^*=x-b^*\)`)
 
-```math
+This is also an inline $a^*=x-b^*$ equation. (`$a^*=x-b^*$`)
+
 These are block equations:
 
 \[
@@ -69,9 +69,6 @@ These are also block equations:
 
 $$a^*=x-b^*$$
 
-$$ a^*=x-b^* $$
-
 $$
 a^*=x-b^*
 $$
-```
