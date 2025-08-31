@@ -15,7 +15,7 @@ A demo post to show the features of a post page in Hugo Theme Dream.
 
 <!--more-->
 
-View <https://g1en.site/hugo-theme-dream/post-page> for more details.
+View <https://hugo-theme-dream.g1en.site/post-page> for more details.
 
 ## Alerts
 
