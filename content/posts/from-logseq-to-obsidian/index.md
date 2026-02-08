@@ -7,10 +7,7 @@ cover: cover.svg
 images:
   - cover.svg
 categories:
-  - category1
-tags:
-  - tag1
-  - tag2
+  - 生活
 ---
 
 开始使用Obsidian作为我的PKM（Personal Knowledge Management/个人知识管理）工具。
@@ -25,9 +22,9 @@ tags:
 
 另外还可以举个例子，就是Logseq的界面设计还是太粗糙了，比如删除页面的提示框，简直像是上古时代的灰白框，格式不规整，而且在不同的删除提示中，删除按钮的位置也不一样：
 
-![Delete empty pages](./delete-1.png "删除空页面的提示框")
+![Delete empty pages](./delete-1.png '删除空页面的提示框')
 
-![Delete a journal](./delete-2.png "删除日记的提示框")
+![Delete a journal](./delete-2.png '删除日记的提示框')
 
 类似这样粗糙的东西还有很多，这也是体验不好的另一方面。
 
