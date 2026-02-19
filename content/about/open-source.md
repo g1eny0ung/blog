@@ -5,7 +5,7 @@ date: 2019-11-11T01:31:25+08:00
 
 - [Petal :hibiscus:](https://github.com/ilime/Petal)
 
-  [豆瓣 FM](https://douban.fm/) 桌面版
+  [豆瓣 FM](https://doubanfm.kuwo.cn/) 桌面版
 
 - [hugo-theme-dream :seedling:](https://github.com/g1eny0ung/hugo-theme-dream)
 
