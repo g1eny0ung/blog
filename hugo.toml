@@ -83,7 +83,7 @@ showTableOfContents = true
 showSummaryCoverInPost = true
 imageZoomableInPost = true
 showPrevNextPost = true
-# reorderShares = ["x", "facebook", "whatsapp"]
+reorderShares = ["x"]
 
 # https://gohugo.io/templates/embedded/#configure-x-twitter-cards
 [params.social]
