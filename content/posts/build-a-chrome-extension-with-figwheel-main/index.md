@@ -19,6 +19,12 @@ Bring a smooth experience to the development of Chrome Extension.
 
 <!--more-->
 
+<!-- prettier-ignore -->
+> [!NOTE]
+> **This post is outdated**, and it's not recommended to use ClojureScript to develop extensions that support multiple browsers.
+> **I now recommend using [WXT](https://wxt.dev/)**.
+{text="Note"}
+
 ## Before starting
 
 Several years ago, I developed a chrome extension with ClojureScript,
@@ -104,6 +110,7 @@ This is the first point we need to pay attention to: [Chrome Apps Content Securi
 
 Since we are in a development environment, Figwheel Main will insert some inline scripts (related to its functionality) into the document. You can view the `dev-main.js`:
 
+<!-- prettier-ignore -->
 ```js
 if (typeof goog == 'undefined') document.write('<script src="/cljs-out/dev/goog/base.js"></script>')
 document.write('<script src="/cljs-out/dev/goog/deps.js"></script>')
