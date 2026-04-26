@@ -76,7 +76,16 @@ customSyntaxHighlighting = true
 
 # options
 stickyNav = true
-reorderNavItems = ["about", "search", "github", "posts", "categories", "tags", "rss"]
+reorderNavItems = [
+  "about",
+  "search",
+  "github",
+  "products",
+  "posts",
+  "categories",
+  "tags",
+  "rss",
+]
 collapseNavItems = ["posts", "categories", "tags", "rss"]
 # noDefaultSummaryCover = true
 showTableOfContents = true
@@ -91,6 +100,7 @@ twitter = "g1eny0ung"
 
 [params.navItems]
 github = { href = "https://github.com/g1eny0ung", target = "_blank", icon = "logo-github", title = "GitHub" }
+products = { href = "https://products.g1en.site", target = "_blank", icon = "planet", title = "G1en的产品" }
 
 [params.advanced]
 customCSS = ["css/custom.css"]
