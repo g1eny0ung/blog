@@ -3,9 +3,9 @@ title: Buy Me a Coffee
 date: 2019-06-03T14:21:26+08:00
 author: g1eny0ung
 avatar: /img/personal/avatar.jpg
-cover: Buy-Me-a-Coffee.jpg
-images:
-  - Buy-Me-a-Coffee.jpg
+# cover: Buy-Me-a-Coffee.jpg
+# images:
+#   - Buy-Me-a-Coffee.jpg
 categories:
   - English
   - 开源
