@@ -1,6 +1,6 @@
 baseURL = "https://g1eny0ung.github.io/blog"
 defaultContentLanguage = "zh"
-languageCode = "zh-Hans"
+locale = "zh-Hans"
 title = "g1eny0ung's Blog"
 theme = "dream"
 
