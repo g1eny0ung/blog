@@ -42,12 +42,27 @@ View <https://hugo-theme-dream.g1en.site/post-page> for more details.
 
 ## Mermaid Diagrams
 
+## A simple flowchart
+
 ```mermaid
 graph TD;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
+```
+
+## Complex sequence diagram with zoom
+
+```mermaid {zoom="true"}
+sequenceDiagram
+    participant API@{ "type": "boundary", "alias": "Public API" }
+    participant Auth@{ "type": "control", "alias": "Auth Service" }
+    participant DB@{ "type": "database", "alias": "User Database" }
+    API->>Auth: Login request
+    Auth->>DB: Query user
+    DB-->>Auth: User data
+    Auth-->>API: Access token
 ```
 
 ## Mathematics
