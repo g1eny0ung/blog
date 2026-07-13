@@ -6,5 +6,4 @@ socials = [
   # { href = "https://instagram.com/g1eny0ung", target="_blank", icon = "logo-instagram", title = "Instagram" },
   { href = "https://www.linkedin.com/in/g1eny0ung", target = "_blank", icon = "logo-linkedin", title = "Linkedin" },
   { href = "https://stackoverflow.com/users/5676489/g1eny0ung", target = "_blank", icon = "logo-stackoverflow", title = "stack overflow" },
-  # { href = "https://codepen.io/g1eny0ung", target="_blank", icon = "logo-codepen", title = "Codepen" },
 ]
