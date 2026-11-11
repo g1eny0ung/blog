@@ -5,7 +5,7 @@ lastmod: 2025-01-23T18:58:40+08:00
 avatar: /img/personal/avatar.jpg
 cover: cover.svg
 images:
-  - cover.svg
+  - cover.png
 categories:
   - English
 tags:

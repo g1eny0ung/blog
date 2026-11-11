@@ -5,7 +5,7 @@ lastmod: 2026-02-08T18:09:04+08:00
 avatar: /img/personal/avatar.jpg
 cover: cover.svg
 images:
-  - cover.svg
+  - cover.png
 categories:
   - 生活
 ---

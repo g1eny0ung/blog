@@ -5,7 +5,7 @@ lastmod: 2024-08-24T13:41:35+08:00
 avatar: /img/personal/avatar.jpg
 cover: meta-tags-for-seo.svg
 images:
-  - meta-tags-for-seo.svg
+  - meta-tags-for-seo.png
 categories:
   - English
   - 技术
